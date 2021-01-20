@@ -1,0 +1,825 @@
+1.1566110809799284
+1.2595517809968442
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+0.9359319929499179
+1.222097473917529
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8005050505050505
+0.9019349389709532
+1.2713589970953763
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8282828282828283
+0.9370198389515281
+1.2289318558759987
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8611111111111112
+0.9305037709418684
+1.2194690590258688
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7878787878787878
+1.23755758209154
+1.323064181022346
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.1391840691212565
+1.2401032610796392
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+1.1633862471207976
+1.303267328068614
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8611111111111112
+1.067434875993058
+1.2298866659402847
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7853535353535354
+1.162977766012773
+1.318558249855414
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8333333333333334
+1.1454109069891274
+1.3199245119467378
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8181818181818182
+1.221997608896345
+1.3467783718369901
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+1.1573345861397684
+1.2471003248356283
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.49242424242424243
+1.2399076980073005
+1.266148605151102
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8661616161616161
+1.258650687057525
+1.2731420800555497
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.803030303030303
+0.7533608830999583
+0.932368990033865
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+0.9126961079891771
+1.019335987046361
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8409090909090909
+1.030578790931031
+1.2965756352059543
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.2039164141751826
+1.0691593259107322
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8484848484848485
+1.1564606039319187
+1.075623705983162
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8055555555555556
+0.6852007550187409
+1.0519918899517506
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8585858585858586
+0.5459591951221228
+0.5195242129266262
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8207070707070707
+0.6601244430057704
+0.9842386438976973
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7575757575757576
+0.668391372077167
+1.0337200928479433
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+0.6729257220868021
+1.0682954019866884
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5328282828282829
+1.1736873008776456
+1.1151623157784343
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.0335520489607006
+1.176541422959417
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7954545454545454
+1.1375179800670594
+1.1398293050006032
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.1326198719907552
+1.1088704399298877
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.4621212121212121
+1.111367692006752
+1.152565703028813
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8207070707070707
+1.2437434708699584
+1.1468754969537258
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.49747474747474746
+1.015649921959266
+1.3312314639333636
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8560606060606061
+1.1474212650209665
+1.1377990571781993
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.1320430662017316
+1.1535632638260722
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.0027290950529277
+0.9562925628852099
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.73989898989899
+0.6458211871795356
+1.1489143690560013
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7752525252525253
+1.0709052560850978
+1.154870914062485
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+1.0197778809815645
+1.224278617883101
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5227272727272727
+0.903153310995549
+0.9123238041065633
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8636363636363636
+1.0674749601166695
+0.8514048659708351
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.1274793930351734
+0.8649944430217147
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5656565656565656
+0.781261044787243
+0.8938245000317693
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+0.7934795401524752
+0.8831366139929742
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8484848484848485
+0.8977374890819192
+1.0295735909603536
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7929292929292929
+1.1294368440285325
+1.2686952440999448
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+1.1858113890048116
+1.150335832964629
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8282828282828283
+1.055199921131134
+1.3190677489619702
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8055555555555556
+1.3020322199445218
+1.093285006005317
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.19444444444444445
+1.0290857781656086
+1.0595399849116802
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.49242424242424243
+1.185555423144251
+1.0181661581154913
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7424242424242424
+1.1840968830510974
+1.1059874079655856
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8409090909090909
+1.0824811579659581
+1.1662076960783452
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8080808080808081
+0.86610983684659
+0.8668972100131214
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+0.933199472958222
+0.8580238958820701
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8131313131313131
+1.079131311038509
+0.996265014866367
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.1991796721704304
+1.1568985690828413
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7449494949494949
+1.0959855180699378
+1.0815518600866199
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+0.9355049428995699
+1.1317847510799766
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7449494949494949
+1.073233705945313
+1.0328546708915383
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.46464646464646464
+0.8900715298950672
+1.0983619161415845
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8156565656565656
+1.167145170038566
+1.1788286871742457
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+0.9519560551270843
+1.0983403029385954
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.1165709600318223
+1.1250209929421544
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8232323232323232
+1.0538359889760613
+1.1971442210488021
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5126262626262627
+1.105929101118818
+1.325041172793135
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.0044915471225977
+1.1518643600866199
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7550505050505051
+1.1516183360945433
+1.2197108960244805
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8080808080808081
+1.025472376961261
+1.1710587290581316
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5505050505050505
+1.2394196218810976
+0.8389282100833952
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8005050505050505
+0.9790857979096472
+1.2011548751033843
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+0.8508898329455405
+0.8587539000436664
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+1.2423777950461954
+0.8483386668376625
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8232323232323232
+1.1866155788302422
+1.1702009779401124
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8232323232323232
+1.0686099051963538
+1.0240978600922972
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.49242424242424243
+1.2010502719786018
+1.2181960181333125
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+0.9776685920078307
+1.0795579107943922
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8560606060606061
+0.940015543019399
+1.153800775995478
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5227272727272727
+0.9910113560035825
+1.004301364067942
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+1.181383823044598
+0.9597889571450651
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8333333333333334
+1.205419909907505
+0.9249137258157134
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7651515151515151
+1.1600954460445791
+0.878286253195256
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+1.0443881291430444
+0.9942185860127211
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.0750317219644785
+0.9882796849124134
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.181080515962094
+1.0460863639600575
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8207070707070707
+1.049307000124827
+1.1149276988580823
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.105201361933723
+1.0501542179845273
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+1.105004247976467
+1.2287251909729093
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.0649123759940267
+1.1651382809504867
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7676767676767676
+1.0470056890044361
+1.2396038370206952
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.2727272727272727
+1.2547891510184854
+1.206036243122071
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8080808080808081
+1.1215945028234273
+1.1679356768727303
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.0915824859403074
+1.167343070032075
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.851010101010101
+1.2640863279812038
+1.1612206948921084
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5
+1.075364163145423
+1.2800739349331707
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5050505050505051
+1.0629312249366194
+1.2970225948374718
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8585858585858586
+0.9420239950995892
+1.4600252639502287
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7878787878787878
+1.061606404837221
+1.2765106339938939
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.025981083046645
+1.287705642869696
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8005050505050505
+1.0918324240483344
+1.2517323379870504
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+0.9613246109802276
+1.1469778080936521
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7853535353535354
+1.0479726509656757
+1.3439752580597997
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8257575757575758
+1.2707437020726502
+1.047893428010866
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.2851093760691583
+1.082019121851772
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.1520791549701244
+1.1031260930467397
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.183637022972107
+1.154416116885841
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.1249024330172688
+1.1708920982200652
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5227272727272727
+1.1372374228667468
+1.1273724138736725
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5176767676767676
+1.1314354038331658
+1.1375435548834503
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8232323232323232
+0.9966543209739029
+1.1993821151554585
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8181818181818182
+0.9810891761444509
+1.2284411508589983
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+0.9734307040926069
+1.0475993279833347
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8080808080808081
+1.3090207218192518
+0.9547771331854165
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.851010101010101
+1.1165213889908046
+0.9117847811430693
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7878787878787878
+0.9410867160186172
+1.2288718570489436
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8560606060606061
+1.1031632761005312
+1.05763127701357
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.0527805348392576
+1.0040433548856527
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.1013397970236838
+1.0049108951352537
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535
+1.125502276001498
+1.28279356402345
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.1431730189360678
+1.186465763952583
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.167238811030984
+1.130555624840781
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8585858585858586
+1.1546413300093263
+1.0791324710007757
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7904040404040404
+1.0411095588933676
+0.9707210939377546
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.094789057970047
+1.1482294318266213
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.851010101010101
+1.135207762941718
+1.1425836011767387
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8358585858585859
+0.8414768029469997
+1.1265146671794355
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5126262626262627
+1.099344989983365
+0.9570468671154231
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8257575757575758
+1.0115159470587969
+1.054522752063349
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7954545454545454
+1.0177947450429201
+1.0979162671137601
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8005050505050505
+1.3797396959271282
+0.9298323260154575
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8055555555555556
+1.0389833769295365
+1.4031674189027399
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8282828282828283
+1.240102733951062
+1.1781622399576008
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7449494949494949
+0.9995413781143725
+1.3772382920142263
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+1.0046711480244994
+1.0093104201368988
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8484848484848485
+1.094131285091862
+1.2310564939398319
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8156565656565656
+1.1907867579720914
+1.2319535920396447
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8333333333333334
+1.1430519199930131
+1.1420461949892342
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.096447163959965
+1.1097095739096403
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.797979797979798
+1.0656144879758358
+1.0739790271036327
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+1.0632819230668247
+1.268351883161813
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.2368206570390612
+1.1032677399925888
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8560606060606061
+1.1981577090919018
+1.1749421139247715
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8585858585858586
+0.7306202149484307
+0.74173752986826
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8156565656565656
+1.146605565911159
+1.0801460391376168
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8308080808080808
+1.0296032140031457
+1.1657521920278668
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.73989898989899
+1.309183879988268
+1.0246684649027884
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8636363636363636
+0.8128195181488991
+1.1862023971043527
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8383838383838383
+1.107993309153244
+1.1516485929023474
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5277777777777778
+1.1055701130535454
+1.086524120066315
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.056341994088143
+1.1055404171347618
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8055555555555556
+1.132782137952745
+1.2185406819917262
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.063224847894162
+1.1242817521560937
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5176767676767676
+1.1086471870075911
+1.0846954479347914
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8459595959595959
+1.1306488828267902
+1.1695019789040089
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8434343434343434
+1.0964054649230093
+1.0758347059600055
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.16161616161616163
+1.0054621149320155
+1.2934242649935186
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8409090909090909
+1.222212036140263
+1.120482926024124
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.5252525252525253
+1.2365635568276048
+0.8886463460512459
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8106060606060606
+0.800882003037259
+0.8342141159810126
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7878787878787878
+0.8296148059889674
+1.18638949515298
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8055555555555556
+1.2146783478092402
+1.087993898196146
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8333333333333334
+0.9808792448602617
+1.1606465401127934
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8585858585858586
+1.2332502088975161
+1.1477886561769992
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.7904040404040404
+1.2386856169905514
+1.093982941005379
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.4898989898989899
+1.1843063111882657
+1.1696935740765184
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8282828282828283
+1.152489264961332
+1.1868566679768264
+kernel was not specified
+probability_flag was not specified
+Train Score: 1.0Test Score: 0.8535353535353535

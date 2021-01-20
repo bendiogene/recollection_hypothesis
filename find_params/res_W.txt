@@ -1,0 +1,66 @@
+weights_id: 1, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20,CLASS_TR: -1
+train score correct: 308, wrong: 92, p: 0.77 
+test score correct: 286, wrong: 110, p: 0.7222222222222222
+weighted potential train score correct: 317, wrong: 83, p: 0.7925
+weighted potential test score correct: 297, wrong: 99, p: 0.75
+
+weights_id: 4, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20,CLASS_TR: -1
+train score correct: 321, wrong: 79, p: 0.8025 
+test score correct: 275, wrong: 121, p: 0.6944444444444444
+weighted potential train score correct: 322, wrong: 78, p: 0.805
+weighted potential test score correct: 277, wrong: 119, p: 0.6994949494949495
+
+weights_id: 0, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20,CLASS_TR: -1
+train score correct: 379, wrong: 21, p: 0.9475 
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 382, wrong: 18, p: 0.955
+weighted potential test score correct: 379, wrong: 17, p: 0.9570707070707071
+
+weights_id: 2, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20,CLASS_TR: -1
+train score correct: 348, wrong: 52, p: 0.87 
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 352, wrong: 48, p: 0.88
+weighted potential test score correct: 354, wrong: 42, p: 0.8939393939393939
+
+weights_id: 3, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20,CLASS_TR: -1
+train score correct: 304, wrong: 96, p: 0.76 
+test score correct: 279, wrong: 117, p: 0.7045454545454546
+weighted potential train score correct: 303, wrong: 97, p: 0.7575
+weighted potential test score correct: 276, wrong: 120, p: 0.696969696969697
+
+weights_id: 4, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 327, wrong: 73, p: 0.8175 
+test score correct: 283, wrong: 113, p: 0.7146464646464646
+weighted potential train score correct: 331, wrong: 69, p: 0.8275
+weighted potential test score correct: 285, wrong: 111, p: 0.7196969696969697
+
+weights_id: 5, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 337, wrong: 63, p: 0.8425 
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 341, wrong: 59, p: 0.8525
+weighted potential test score correct: 335, wrong: 61, p: 0.8459595959595959
+
+weights_id: 2, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 349, wrong: 51, p: 0.8725 
+test score correct: 352, wrong: 44, p: 0.8888888888888888
+weighted potential train score correct: 349, wrong: 51, p: 0.8725
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+weights_id: 0, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 382, wrong: 18, p: 0.955 
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 387, wrong: 13, p: 0.9675
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+weights_id: 3, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 309, wrong: 91, p: 0.7725 
+test score correct: 283, wrong: 113, p: 0.7146464646464646
+weighted potential train score correct: 310, wrong: 90, p: 0.775
+weighted potential test score correct: 284, wrong: 112, p: 0.7171717171717171
+
+weights_id: 1, ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.003,TR_learning: 10,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.5,TR_L1: 6.25,TR_L2: 20.75,CLASS_TR: -1
+train score correct: 306, wrong: 94, p: 0.765 
+test score correct: 281, wrong: 115, p: 0.7095959595959596
+weighted potential train score correct: 318, wrong: 82, p: 0.795
+weighted potential test score correct: 295, wrong: 101, p: 0.7449494949494949
+

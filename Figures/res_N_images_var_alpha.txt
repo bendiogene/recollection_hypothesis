@@ -1,0 +1,2640 @@
+n_train_images 5 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 8, wrong: 2, p: 0.8
+test score correct: 250, wrong: 146, p: 0.6313131313131313
+weighted potential train score correct: 9, wrong: 1, p: 0.9
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 5 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 5 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 5 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 318, wrong: 78, p: 0.803030303030303
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 326, wrong: 70, p: 0.8232323232323232
+
+n_train_images 5 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+n_train_images 5 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 5 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 355, wrong: 41, p: 0.8964646464646465
+
+n_train_images 5 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 313, wrong: 83, p: 0.7904040404040404
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 323, wrong: 73, p: 0.8156565656565656
+
+n_train_images 10 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 18, wrong: 2, p: 0.9
+test score correct: 354, wrong: 42, p: 0.8939393939393939
+weighted potential train score correct: 18, wrong: 2, p: 0.9
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 10 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 20, wrong: 0, p: 1.0
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 20, wrong: 0, p: 1.0
+weighted potential test score correct: 294, wrong: 102, p: 0.7424242424242424
+
+n_train_images 10 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 327, wrong: 69, p: 0.8257575757575758
+weighted potential train score correct: 19, wrong: 1, p: 0.95
+weighted potential test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+n_train_images 10 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 19, wrong: 1, p: 0.95
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 10 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 18, wrong: 2, p: 0.9
+test score correct: 354, wrong: 42, p: 0.8939393939393939
+weighted potential train score correct: 18, wrong: 2, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 10 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 20, wrong: 0, p: 1.0
+test score correct: 294, wrong: 102, p: 0.7424242424242424
+weighted potential train score correct: 20, wrong: 0, p: 1.0
+weighted potential test score correct: 293, wrong: 103, p: 0.73989898989899
+
+n_train_images 10 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 19, wrong: 1, p: 0.95
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 10 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 15, wrong: 5, p: 0.75
+test score correct: 261, wrong: 135, p: 0.6590909090909091
+weighted potential train score correct: 16, wrong: 4, p: 0.8
+weighted potential test score correct: 249, wrong: 147, p: 0.6287878787878788
+
+n_train_images 15 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 28, wrong: 2, p: 0.9333333333333333
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 28, wrong: 2, p: 0.9333333333333333
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+n_train_images 15 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 28, wrong: 2, p: 0.9333333333333333
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 28, wrong: 2, p: 0.9333333333333333
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+n_train_images 15 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 29, wrong: 1, p: 0.9666666666666667
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 29, wrong: 1, p: 0.9666666666666667
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 15 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 21, wrong: 9, p: 0.7
+test score correct: 265, wrong: 131, p: 0.6691919191919192
+weighted potential train score correct: 21, wrong: 9, p: 0.7
+weighted potential test score correct: 255, wrong: 141, p: 0.6439393939393939
+
+n_train_images 15 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 30, wrong: 0, p: 1.0
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 30, wrong: 0, p: 1.0
+weighted potential test score correct: 291, wrong: 105, p: 0.7348484848484849
+
+n_train_images 15 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 27, wrong: 3, p: 0.9
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 26, wrong: 4, p: 0.8666666666666667
+weighted potential test score correct: 337, wrong: 59, p: 0.851010101010101
+
+n_train_images 15 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 29, wrong: 1, p: 0.9666666666666667
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 29, wrong: 1, p: 0.9666666666666667
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 15 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 30, wrong: 0, p: 1.0
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 30, wrong: 0, p: 1.0
+weighted potential test score correct: 290, wrong: 106, p: 0.7323232323232324
+
+n_train_images 20 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 35, wrong: 5, p: 0.875
+test score correct: 271, wrong: 125, p: 0.6843434343434344
+weighted potential train score correct: 35, wrong: 5, p: 0.875
+weighted potential test score correct: 272, wrong: 124, p: 0.6868686868686869
+
+n_train_images 20 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 37, wrong: 3, p: 0.925
+test score correct: 352, wrong: 44, p: 0.8888888888888888
+weighted potential train score correct: 37, wrong: 3, p: 0.925
+weighted potential test score correct: 348, wrong: 48, p: 0.8787878787878788
+
+n_train_images 20 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 28, wrong: 12, p: 0.7
+test score correct: 268, wrong: 128, p: 0.6767676767676768
+weighted potential train score correct: 28, wrong: 12, p: 0.7
+weighted potential test score correct: 261, wrong: 135, p: 0.6590909090909091
+
+n_train_images 20 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 35, wrong: 5, p: 0.875
+test score correct: 268, wrong: 128, p: 0.6767676767676768
+weighted potential train score correct: 35, wrong: 5, p: 0.875
+weighted potential test score correct: 271, wrong: 125, p: 0.6843434343434344
+
+n_train_images 20 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 37, wrong: 3, p: 0.925
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 36, wrong: 4, p: 0.9
+weighted potential test score correct: 340, wrong: 56, p: 0.8585858585858586
+
+n_train_images 20 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 37, wrong: 3, p: 0.925
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 37, wrong: 3, p: 0.925
+weighted potential test score correct: 350, wrong: 46, p: 0.8838383838383839
+
+n_train_images 20 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 38, wrong: 2, p: 0.95
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 38, wrong: 2, p: 0.95
+weighted potential test score correct: 380, wrong: 16, p: 0.9595959595959596
+
+n_train_images 20 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 38, wrong: 2, p: 0.95
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 38, wrong: 2, p: 0.95
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 25 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 44, wrong: 6, p: 0.88
+test score correct: 350, wrong: 46, p: 0.8838383838383839
+weighted potential train score correct: 44, wrong: 6, p: 0.88
+weighted potential test score correct: 347, wrong: 49, p: 0.8762626262626263
+
+n_train_images 25 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 44, wrong: 6, p: 0.88
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 44, wrong: 6, p: 0.88
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 25 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 44, wrong: 6, p: 0.88
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 44, wrong: 6, p: 0.88
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 25 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 46, wrong: 4, p: 0.92
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 46, wrong: 4, p: 0.92
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 25 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 39, wrong: 11, p: 0.78
+test score correct: 278, wrong: 118, p: 0.702020202020202
+weighted potential train score correct: 40, wrong: 10, p: 0.8
+weighted potential test score correct: 276, wrong: 120, p: 0.696969696969697
+
+n_train_images 25 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 39, wrong: 11, p: 0.78
+test score correct: 271, wrong: 125, p: 0.6843434343434344
+weighted potential train score correct: 40, wrong: 10, p: 0.8
+weighted potential test score correct: 275, wrong: 121, p: 0.6944444444444444
+
+n_train_images 25 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 35, wrong: 15, p: 0.7
+test score correct: 272, wrong: 124, p: 0.6868686868686869
+weighted potential train score correct: 35, wrong: 15, p: 0.7
+weighted potential test score correct: 270, wrong: 126, p: 0.6818181818181818
+
+n_train_images 25 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 46, wrong: 4, p: 0.92
+test score correct: 371, wrong: 25, p: 0.9368686868686869
+weighted potential train score correct: 46, wrong: 4, p: 0.92
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 30 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 50, wrong: 10, p: 0.8333333333333334
+test score correct: 276, wrong: 120, p: 0.696969696969697
+weighted potential train score correct: 49, wrong: 11, p: 0.8166666666666667
+weighted potential test score correct: 278, wrong: 118, p: 0.702020202020202
+
+n_train_images 30 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 54, wrong: 6, p: 0.9
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 54, wrong: 6, p: 0.9
+weighted potential test score correct: 335, wrong: 61, p: 0.8459595959595959
+
+n_train_images 30 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 53, wrong: 7, p: 0.8833333333333333
+test score correct: 342, wrong: 54, p: 0.8636363636363636
+weighted potential train score correct: 53, wrong: 7, p: 0.8833333333333333
+weighted potential test score correct: 338, wrong: 58, p: 0.8535353535353535
+
+n_train_images 30 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 55, wrong: 5, p: 0.9166666666666666
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 55, wrong: 5, p: 0.9166666666666666
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 30 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 43, wrong: 17, p: 0.7166666666666667
+test score correct: 278, wrong: 118, p: 0.702020202020202
+weighted potential train score correct: 42, wrong: 18, p: 0.7
+weighted potential test score correct: 271, wrong: 125, p: 0.6843434343434344
+
+n_train_images 30 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 55, wrong: 5, p: 0.9166666666666666
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 55, wrong: 5, p: 0.9166666666666666
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 30 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 53, wrong: 7, p: 0.8833333333333333
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 53, wrong: 7, p: 0.8833333333333333
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 30 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 49, wrong: 11, p: 0.8166666666666667
+test score correct: 278, wrong: 118, p: 0.702020202020202
+weighted potential train score correct: 49, wrong: 11, p: 0.8166666666666667
+weighted potential test score correct: 279, wrong: 117, p: 0.7045454545454546
+
+n_train_images 35 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 50, wrong: 20, p: 0.7142857142857143
+test score correct: 285, wrong: 111, p: 0.7196969696969697
+weighted potential train score correct: 49, wrong: 21, p: 0.7
+weighted potential test score correct: 277, wrong: 119, p: 0.6994949494949495
+
+n_train_images 35 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 63, wrong: 7, p: 0.9
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 63, wrong: 7, p: 0.9
+weighted potential test score correct: 343, wrong: 53, p: 0.8661616161616161
+
+n_train_images 35 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 338, wrong: 58, p: 0.8535353535353535
+
+n_train_images 35 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 35 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 366, wrong: 30, p: 0.9242424242424242
+
+n_train_images 35 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 35 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 53, wrong: 17, p: 0.7571428571428571
+test score correct: 225, wrong: 171, p: 0.5681818181818182
+weighted potential train score correct: 53, wrong: 17, p: 0.7571428571428571
+weighted potential test score correct: 226, wrong: 170, p: 0.5707070707070707
+
+n_train_images 35 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 53, wrong: 17, p: 0.7571428571428571
+test score correct: 228, wrong: 168, p: 0.5757575757575758
+weighted potential train score correct: 53, wrong: 17, p: 0.7571428571428571
+weighted potential test score correct: 228, wrong: 168, p: 0.5757575757575758
+
+n_train_images 40 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 40 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 350, wrong: 46, p: 0.8838383838383839
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 347, wrong: 49, p: 0.8762626262626263
+
+n_train_images 40 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 60, wrong: 20, p: 0.75
+test score correct: 287, wrong: 109, p: 0.7247474747474747
+weighted potential train score correct: 59, wrong: 21, p: 0.7375
+weighted potential test score correct: 280, wrong: 116, p: 0.7070707070707071
+
+n_train_images 40 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 344, wrong: 52, p: 0.8686868686868687
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 40 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 40 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 73, wrong: 7, p: 0.9125
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 73, wrong: 7, p: 0.9125
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 40 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 61, wrong: 19, p: 0.7625
+test score correct: 234, wrong: 162, p: 0.5909090909090909
+weighted potential train score correct: 61, wrong: 19, p: 0.7625
+weighted potential test score correct: 234, wrong: 162, p: 0.5909090909090909
+
+n_train_images 40 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 61, wrong: 19, p: 0.7625
+test score correct: 234, wrong: 162, p: 0.5909090909090909
+weighted potential train score correct: 61, wrong: 19, p: 0.7625
+weighted potential test score correct: 234, wrong: 162, p: 0.5909090909090909
+
+n_train_images 45 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 81, wrong: 9, p: 0.9
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 81, wrong: 9, p: 0.9
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 45 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 68, wrong: 22, p: 0.7555555555555555
+test score correct: 295, wrong: 101, p: 0.7449494949494949
+weighted potential train score correct: 67, wrong: 23, p: 0.7444444444444445
+weighted potential test score correct: 285, wrong: 111, p: 0.7196969696969697
+
+n_train_images 45 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 81, wrong: 9, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 81, wrong: 9, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 45 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 81, wrong: 9, p: 0.9
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 81, wrong: 9, p: 0.9
+weighted potential test score correct: 343, wrong: 53, p: 0.8661616161616161
+
+n_train_images 45 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 80, wrong: 10, p: 0.8888888888888888
+test score correct: 340, wrong: 56, p: 0.8585858585858586
+weighted potential train score correct: 81, wrong: 9, p: 0.9
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 45 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 82, wrong: 8, p: 0.9111111111111111
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 82, wrong: 8, p: 0.9111111111111111
+weighted potential test score correct: 349, wrong: 47, p: 0.8813131313131313
+
+n_train_images 45 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 69, wrong: 21, p: 0.7666666666666667
+test score correct: 232, wrong: 164, p: 0.5858585858585859
+weighted potential train score correct: 69, wrong: 21, p: 0.7666666666666667
+weighted potential test score correct: 232, wrong: 164, p: 0.5858585858585859
+
+n_train_images 45 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 70, wrong: 20, p: 0.7777777777777778
+test score correct: 234, wrong: 162, p: 0.5909090909090909
+weighted potential train score correct: 70, wrong: 20, p: 0.7777777777777778
+weighted potential test score correct: 234, wrong: 162, p: 0.5909090909090909
+
+n_train_images 50 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 90, wrong: 10, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 90, wrong: 10, p: 0.9
+weighted potential test score correct: 349, wrong: 47, p: 0.8813131313131313
+
+n_train_images 50 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 77, wrong: 23, p: 0.77
+test score correct: 298, wrong: 98, p: 0.7525252525252525
+weighted potential train score correct: 76, wrong: 24, p: 0.76
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+n_train_images 50 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 74, wrong: 26, p: 0.74
+test score correct: 233, wrong: 163, p: 0.5883838383838383
+weighted potential train score correct: 74, wrong: 26, p: 0.74
+weighted potential test score correct: 232, wrong: 164, p: 0.5858585858585859
+
+n_train_images 50 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 88, wrong: 12, p: 0.88
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 88, wrong: 12, p: 0.88
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 50 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 90, wrong: 10, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 90, wrong: 10, p: 0.9
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 50 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 89, wrong: 11, p: 0.89
+test score correct: 336, wrong: 60, p: 0.8484848484848485
+weighted potential train score correct: 89, wrong: 11, p: 0.89
+weighted potential test score correct: 340, wrong: 56, p: 0.8585858585858586
+
+n_train_images 50 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 88, wrong: 12, p: 0.88
+test score correct: 336, wrong: 60, p: 0.8484848484848485
+weighted potential train score correct: 90, wrong: 10, p: 0.9
+weighted potential test score correct: 339, wrong: 57, p: 0.8560606060606061
+
+n_train_images 50 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 75, wrong: 25, p: 0.75
+test score correct: 235, wrong: 161, p: 0.5934343434343434
+weighted potential train score correct: 75, wrong: 25, p: 0.75
+weighted potential test score correct: 235, wrong: 161, p: 0.5934343434343434
+
+n_train_images 55 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 100, wrong: 10, p: 0.9090909090909091
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 100, wrong: 10, p: 0.9090909090909091
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 55 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 99, wrong: 11, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 99, wrong: 11, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 55 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 85, wrong: 25, p: 0.7727272727272727
+test score correct: 306, wrong: 90, p: 0.7727272727272727
+weighted potential train score correct: 84, wrong: 26, p: 0.7636363636363637
+weighted potential test score correct: 294, wrong: 102, p: 0.7424242424242424
+
+n_train_images 55 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 99, wrong: 11, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 100, wrong: 10, p: 0.9090909090909091
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 55 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 98, wrong: 12, p: 0.8909090909090909
+test score correct: 333, wrong: 63, p: 0.8409090909090909
+weighted potential train score correct: 97, wrong: 13, p: 0.8818181818181818
+weighted potential test score correct: 335, wrong: 61, p: 0.8459595959595959
+
+n_train_images 55 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 97, wrong: 13, p: 0.8818181818181818
+test score correct: 332, wrong: 64, p: 0.8383838383838383
+weighted potential train score correct: 97, wrong: 13, p: 0.8818181818181818
+weighted potential test score correct: 335, wrong: 61, p: 0.8459595959595959
+
+n_train_images 55 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 85, wrong: 25, p: 0.7727272727272727
+test score correct: 235, wrong: 161, p: 0.5934343434343434
+weighted potential train score correct: 86, wrong: 24, p: 0.7818181818181819
+weighted potential test score correct: 235, wrong: 161, p: 0.5934343434343434
+
+n_train_images 55 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 83, wrong: 27, p: 0.7545454545454545
+test score correct: 233, wrong: 163, p: 0.5883838383838383
+weighted potential train score correct: 84, wrong: 26, p: 0.7636363636363637
+weighted potential test score correct: 232, wrong: 164, p: 0.5858585858585859
+
+n_train_images 60 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 105, wrong: 15, p: 0.875
+test score correct: 341, wrong: 55, p: 0.8611111111111112
+weighted potential train score correct: 105, wrong: 15, p: 0.875
+weighted potential test score correct: 337, wrong: 59, p: 0.851010101010101
+
+n_train_images 60 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 89, wrong: 31, p: 0.7416666666666667
+test score correct: 297, wrong: 99, p: 0.75
+weighted potential train score correct: 90, wrong: 30, p: 0.75
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+n_train_images 60 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 101, wrong: 19, p: 0.8416666666666667
+test score correct: 327, wrong: 69, p: 0.8257575757575758
+weighted potential train score correct: 103, wrong: 17, p: 0.8583333333333333
+weighted potential test score correct: 331, wrong: 65, p: 0.8358585858585859
+
+n_train_images 60 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 107, wrong: 13, p: 0.8916666666666667
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+weighted potential train score correct: 108, wrong: 12, p: 0.9
+weighted potential test score correct: 350, wrong: 46, p: 0.8838383838383839
+
+n_train_images 60 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 108, wrong: 12, p: 0.9
+test score correct: 351, wrong: 45, p: 0.8863636363636364
+weighted potential train score correct: 108, wrong: 12, p: 0.9
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 60 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 101, wrong: 19, p: 0.8416666666666667
+test score correct: 323, wrong: 73, p: 0.8156565656565656
+weighted potential train score correct: 101, wrong: 19, p: 0.8416666666666667
+weighted potential test score correct: 328, wrong: 68, p: 0.8282828282828283
+
+n_train_images 60 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 88, wrong: 32, p: 0.7333333333333333
+test score correct: 232, wrong: 164, p: 0.5858585858585859
+weighted potential train score correct: 88, wrong: 32, p: 0.7333333333333333
+weighted potential test score correct: 232, wrong: 164, p: 0.5858585858585859
+
+n_train_images 60 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 88, wrong: 32, p: 0.7333333333333333
+test score correct: 229, wrong: 167, p: 0.5782828282828283
+weighted potential train score correct: 88, wrong: 32, p: 0.7333333333333333
+weighted potential test score correct: 229, wrong: 167, p: 0.5782828282828283
+
+n_train_images 65 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 116, wrong: 14, p: 0.8923076923076924
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 116, wrong: 14, p: 0.8923076923076924
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 65 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 99, wrong: 31, p: 0.7615384615384615
+test score correct: 305, wrong: 91, p: 0.7702020202020202
+weighted potential train score correct: 100, wrong: 30, p: 0.7692307692307693
+weighted potential test score correct: 293, wrong: 103, p: 0.73989898989899
+
+n_train_images 65 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 117, wrong: 13, p: 0.9
+test score correct: 356, wrong: 40, p: 0.898989898989899
+weighted potential train score correct: 118, wrong: 12, p: 0.9076923076923077
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 65 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 118, wrong: 12, p: 0.9076923076923077
+test score correct: 356, wrong: 40, p: 0.898989898989899
+weighted potential train score correct: 118, wrong: 12, p: 0.9076923076923077
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 65 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 108, wrong: 22, p: 0.8307692307692308
+test score correct: 326, wrong: 70, p: 0.8232323232323232
+weighted potential train score correct: 110, wrong: 20, p: 0.8461538461538461
+weighted potential test score correct: 328, wrong: 68, p: 0.8282828282828283
+
+n_train_images 65 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 107, wrong: 23, p: 0.823076923076923
+test score correct: 324, wrong: 72, p: 0.8181818181818182
+weighted potential train score correct: 109, wrong: 21, p: 0.8384615384615385
+weighted potential test score correct: 325, wrong: 71, p: 0.8207070707070707
+
+n_train_images 65 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 94, wrong: 36, p: 0.7230769230769231
+test score correct: 236, wrong: 160, p: 0.5959595959595959
+weighted potential train score correct: 94, wrong: 36, p: 0.7230769230769231
+weighted potential test score correct: 237, wrong: 159, p: 0.5984848484848485
+
+n_train_images 65 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 93, wrong: 37, p: 0.7153846153846154
+test score correct: 234, wrong: 162, p: 0.5909090909090909
+weighted potential train score correct: 93, wrong: 37, p: 0.7153846153846154
+weighted potential test score correct: 234, wrong: 162, p: 0.5909090909090909
+
+n_train_images 70 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 116, wrong: 24, p: 0.8285714285714286
+test score correct: 319, wrong: 77, p: 0.8055555555555556
+weighted potential train score correct: 117, wrong: 23, p: 0.8357142857142857
+weighted potential test score correct: 322, wrong: 74, p: 0.8131313131313131
+
+n_train_images 70 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 116, wrong: 24, p: 0.8285714285714286
+test score correct: 322, wrong: 74, p: 0.8131313131313131
+weighted potential train score correct: 117, wrong: 23, p: 0.8357142857142857
+weighted potential test score correct: 324, wrong: 72, p: 0.8181818181818182
+
+n_train_images 70 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 125, wrong: 15, p: 0.8928571428571429
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 125, wrong: 15, p: 0.8928571428571429
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 70 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 126, wrong: 14, p: 0.9
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 126, wrong: 14, p: 0.9
+weighted potential test score correct: 353, wrong: 43, p: 0.8914141414141414
+
+n_train_images 70 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 126, wrong: 14, p: 0.9
+test score correct: 355, wrong: 41, p: 0.8964646464646465
+weighted potential train score correct: 127, wrong: 13, p: 0.9071428571428571
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 70 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 106, wrong: 34, p: 0.7571428571428571
+test score correct: 306, wrong: 90, p: 0.7727272727272727
+weighted potential train score correct: 106, wrong: 34, p: 0.7571428571428571
+weighted potential test score correct: 296, wrong: 100, p: 0.7474747474747475
+
+n_train_images 70 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 102, wrong: 38, p: 0.7285714285714285
+test score correct: 241, wrong: 155, p: 0.6085858585858586
+weighted potential train score correct: 101, wrong: 39, p: 0.7214285714285714
+weighted potential test score correct: 242, wrong: 154, p: 0.6111111111111112
+
+n_train_images 70 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 101, wrong: 39, p: 0.7214285714285714
+test score correct: 239, wrong: 157, p: 0.6035353535353535
+weighted potential train score correct: 102, wrong: 38, p: 0.7285714285714285
+weighted potential test score correct: 239, wrong: 157, p: 0.6035353535353535
+
+n_train_images 75 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 113, wrong: 37, p: 0.7533333333333333
+test score correct: 308, wrong: 88, p: 0.7777777777777778
+weighted potential train score correct: 111, wrong: 39, p: 0.74
+weighted potential test score correct: 295, wrong: 101, p: 0.7449494949494949
+
+n_train_images 75 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 135, wrong: 15, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 135, wrong: 15, p: 0.9
+weighted potential test score correct: 354, wrong: 42, p: 0.8939393939393939
+
+n_train_images 75 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 133, wrong: 17, p: 0.8866666666666667
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 133, wrong: 17, p: 0.8866666666666667
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 75 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 109, wrong: 41, p: 0.7266666666666667
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+weighted potential train score correct: 109, wrong: 41, p: 0.7266666666666667
+weighted potential test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+n_train_images 75 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 135, wrong: 15, p: 0.9
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 135, wrong: 15, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 75 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 125, wrong: 25, p: 0.8333333333333334
+test score correct: 315, wrong: 81, p: 0.7954545454545454
+weighted potential train score correct: 127, wrong: 23, p: 0.8466666666666667
+weighted potential test score correct: 319, wrong: 77, p: 0.8055555555555556
+
+n_train_images 75 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 125, wrong: 25, p: 0.8333333333333334
+test score correct: 317, wrong: 79, p: 0.8005050505050505
+weighted potential train score correct: 127, wrong: 23, p: 0.8466666666666667
+weighted potential test score correct: 320, wrong: 76, p: 0.8080808080808081
+
+n_train_images 75 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 107, wrong: 43, p: 0.7133333333333334
+test score correct: 244, wrong: 152, p: 0.6161616161616161
+weighted potential train score correct: 108, wrong: 42, p: 0.72
+weighted potential test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+n_train_images 80 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 123, wrong: 37, p: 0.76875
+test score correct: 309, wrong: 87, p: 0.7803030303030303
+weighted potential train score correct: 121, wrong: 39, p: 0.75625
+weighted potential test score correct: 296, wrong: 100, p: 0.7474747474747475
+
+n_train_images 80 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 144, wrong: 16, p: 0.9
+test score correct: 360, wrong: 36, p: 0.9090909090909091
+weighted potential train score correct: 144, wrong: 16, p: 0.9
+weighted potential test score correct: 359, wrong: 37, p: 0.9065656565656566
+
+n_train_images 80 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 144, wrong: 16, p: 0.9
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 144, wrong: 16, p: 0.9
+weighted potential test score correct: 356, wrong: 40, p: 0.898989898989899
+
+n_train_images 80 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 133, wrong: 27, p: 0.83125
+test score correct: 309, wrong: 87, p: 0.7803030303030303
+weighted potential train score correct: 134, wrong: 26, p: 0.8375
+weighted potential test score correct: 313, wrong: 83, p: 0.7904040404040404
+
+n_train_images 80 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 143, wrong: 17, p: 0.89375
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 142, wrong: 18, p: 0.8875
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 80 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 132, wrong: 28, p: 0.825
+test score correct: 309, wrong: 87, p: 0.7803030303030303
+weighted potential train score correct: 133, wrong: 27, p: 0.83125
+weighted potential test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+n_train_images 80 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 115, wrong: 45, p: 0.71875
+test score correct: 251, wrong: 145, p: 0.6338383838383839
+weighted potential train score correct: 116, wrong: 44, p: 0.725
+weighted potential test score correct: 251, wrong: 145, p: 0.6338383838383839
+
+n_train_images 80 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 116, wrong: 44, p: 0.725
+test score correct: 250, wrong: 146, p: 0.6313131313131313
+weighted potential train score correct: 116, wrong: 44, p: 0.725
+weighted potential test score correct: 250, wrong: 146, p: 0.6313131313131313
+
+n_train_images 85 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 154, wrong: 16, p: 0.9058823529411765
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 151, wrong: 19, p: 0.888235294117647
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 85 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 154, wrong: 16, p: 0.9058823529411765
+test score correct: 363, wrong: 33, p: 0.9166666666666666
+weighted potential train score correct: 154, wrong: 16, p: 0.9058823529411765
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 85 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 134, wrong: 36, p: 0.788235294117647
+test score correct: 314, wrong: 82, p: 0.7929292929292929
+weighted potential train score correct: 130, wrong: 40, p: 0.7647058823529411
+weighted potential test score correct: 304, wrong: 92, p: 0.7676767676767676
+
+n_train_images 85 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 154, wrong: 16, p: 0.9058823529411765
+test score correct: 365, wrong: 31, p: 0.9217171717171717
+weighted potential train score correct: 154, wrong: 16, p: 0.9058823529411765
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+n_train_images 85 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 139, wrong: 31, p: 0.8176470588235294
+test score correct: 298, wrong: 98, p: 0.7525252525252525
+weighted potential train score correct: 139, wrong: 31, p: 0.8176470588235294
+weighted potential test score correct: 304, wrong: 92, p: 0.7676767676767676
+
+n_train_images 85 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 140, wrong: 30, p: 0.8235294117647058
+test score correct: 297, wrong: 99, p: 0.75
+weighted potential train score correct: 140, wrong: 30, p: 0.8235294117647058
+weighted potential test score correct: 302, wrong: 94, p: 0.7626262626262627
+
+n_train_images 85 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 122, wrong: 48, p: 0.7176470588235294
+test score correct: 249, wrong: 147, p: 0.6287878787878788
+weighted potential train score correct: 122, wrong: 48, p: 0.7176470588235294
+weighted potential test score correct: 249, wrong: 147, p: 0.6287878787878788
+
+n_train_images 85 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 121, wrong: 49, p: 0.711764705882353
+test score correct: 251, wrong: 145, p: 0.6338383838383839
+weighted potential train score correct: 122, wrong: 48, p: 0.7176470588235294
+weighted potential test score correct: 251, wrong: 145, p: 0.6338383838383839
+
+n_train_images 90 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 141, wrong: 39, p: 0.7833333333333333
+test score correct: 314, wrong: 82, p: 0.7929292929292929
+weighted potential train score correct: 139, wrong: 41, p: 0.7722222222222223
+weighted potential test score correct: 306, wrong: 90, p: 0.7727272727272727
+
+n_train_images 90 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 160, wrong: 20, p: 0.8888888888888888
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 157, wrong: 23, p: 0.8722222222222222
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 90 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 163, wrong: 17, p: 0.9055555555555556
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 163, wrong: 17, p: 0.9055555555555556
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 90 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 163, wrong: 17, p: 0.9055555555555556
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 163, wrong: 17, p: 0.9055555555555556
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 90 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 128, wrong: 52, p: 0.7111111111111111
+test score correct: 246, wrong: 150, p: 0.6212121212121212
+weighted potential train score correct: 128, wrong: 52, p: 0.7111111111111111
+weighted potential test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+n_train_images 90 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 148, wrong: 32, p: 0.8222222222222222
+test score correct: 289, wrong: 107, p: 0.7297979797979798
+weighted potential train score correct: 148, wrong: 32, p: 0.8222222222222222
+weighted potential test score correct: 295, wrong: 101, p: 0.7449494949494949
+
+n_train_images 90 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 148, wrong: 32, p: 0.8222222222222222
+test score correct: 294, wrong: 102, p: 0.7424242424242424
+weighted potential train score correct: 148, wrong: 32, p: 0.8222222222222222
+weighted potential test score correct: 297, wrong: 99, p: 0.75
+
+n_train_images 90 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 127, wrong: 53, p: 0.7055555555555556
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+weighted potential train score correct: 128, wrong: 52, p: 0.7111111111111111
+weighted potential test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+n_train_images 95 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 167, wrong: 23, p: 0.8789473684210526
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 166, wrong: 24, p: 0.8736842105263158
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 95 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 173, wrong: 17, p: 0.9105263157894737
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 172, wrong: 18, p: 0.9052631578947369
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 95 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 149, wrong: 41, p: 0.7842105263157895
+test score correct: 313, wrong: 83, p: 0.7904040404040404
+weighted potential train score correct: 146, wrong: 44, p: 0.7684210526315789
+weighted potential test score correct: 303, wrong: 93, p: 0.7651515151515151
+
+n_train_images 95 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 156, wrong: 34, p: 0.8210526315789474
+test score correct: 288, wrong: 108, p: 0.7272727272727273
+weighted potential train score correct: 156, wrong: 34, p: 0.8210526315789474
+weighted potential test score correct: 293, wrong: 103, p: 0.73989898989899
+
+n_train_images 95 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 156, wrong: 34, p: 0.8210526315789474
+test score correct: 292, wrong: 104, p: 0.7373737373737373
+weighted potential train score correct: 156, wrong: 34, p: 0.8210526315789474
+weighted potential test score correct: 296, wrong: 100, p: 0.7474747474747475
+
+n_train_images 95 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 174, wrong: 16, p: 0.9157894736842105
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 172, wrong: 18, p: 0.9052631578947369
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 95 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 138, wrong: 52, p: 0.7263157894736842
+test score correct: 250, wrong: 146, p: 0.6313131313131313
+weighted potential train score correct: 138, wrong: 52, p: 0.7263157894736842
+weighted potential test score correct: 251, wrong: 145, p: 0.6338383838383839
+
+n_train_images 95 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 137, wrong: 53, p: 0.7210526315789474
+test score correct: 250, wrong: 146, p: 0.6313131313131313
+weighted potential train score correct: 137, wrong: 53, p: 0.7210526315789474
+weighted potential test score correct: 250, wrong: 146, p: 0.6313131313131313
+
+n_train_images 100 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 177, wrong: 23, p: 0.885
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 177, wrong: 23, p: 0.885
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 100 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 185, wrong: 15, p: 0.925
+test score correct: 365, wrong: 31, p: 0.9217171717171717
+weighted potential train score correct: 182, wrong: 18, p: 0.91
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 100 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 159, wrong: 41, p: 0.795
+test score correct: 314, wrong: 82, p: 0.7929292929292929
+weighted potential train score correct: 157, wrong: 43, p: 0.785
+weighted potential test score correct: 305, wrong: 91, p: 0.7702020202020202
+
+n_train_images 100 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 185, wrong: 15, p: 0.925
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 182, wrong: 18, p: 0.91
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 100 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 164, wrong: 36, p: 0.82
+test score correct: 289, wrong: 107, p: 0.7297979797979798
+weighted potential train score correct: 164, wrong: 36, p: 0.82
+weighted potential test score correct: 294, wrong: 102, p: 0.7424242424242424
+
+n_train_images 100 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 164, wrong: 36, p: 0.82
+test score correct: 294, wrong: 102, p: 0.7424242424242424
+weighted potential train score correct: 165, wrong: 35, p: 0.825
+weighted potential test score correct: 299, wrong: 97, p: 0.7550505050505051
+
+n_train_images 100 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 147, wrong: 53, p: 0.735
+test score correct: 256, wrong: 140, p: 0.6464646464646465
+weighted potential train score correct: 146, wrong: 54, p: 0.73
+weighted potential test score correct: 256, wrong: 140, p: 0.6464646464646465
+
+n_train_images 100 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 147, wrong: 53, p: 0.735
+test score correct: 258, wrong: 138, p: 0.6515151515151515
+weighted potential train score correct: 147, wrong: 53, p: 0.735
+weighted potential test score correct: 258, wrong: 138, p: 0.6515151515151515
+
+n_train_images 105 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 185, wrong: 25, p: 0.8809523809523809
+test score correct: 344, wrong: 52, p: 0.8686868686868687
+weighted potential train score correct: 183, wrong: 27, p: 0.8714285714285714
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 105 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 166, wrong: 44, p: 0.7904761904761904
+test score correct: 316, wrong: 80, p: 0.797979797979798
+weighted potential train score correct: 164, wrong: 46, p: 0.780952380952381
+weighted potential test score correct: 311, wrong: 85, p: 0.7853535353535354
+
+n_train_images 105 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 195, wrong: 15, p: 0.9285714285714286
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 190, wrong: 20, p: 0.9047619047619048
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 105 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 194, wrong: 16, p: 0.9238095238095239
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 190, wrong: 20, p: 0.9047619047619048
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 105 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 171, wrong: 39, p: 0.8142857142857143
+test score correct: 288, wrong: 108, p: 0.7272727272727273
+weighted potential train score correct: 171, wrong: 39, p: 0.8142857142857143
+weighted potential test score correct: 295, wrong: 101, p: 0.7449494949494949
+
+n_train_images 105 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 171, wrong: 39, p: 0.8142857142857143
+test score correct: 296, wrong: 100, p: 0.7474747474747475
+weighted potential train score correct: 173, wrong: 37, p: 0.8238095238095238
+weighted potential test score correct: 296, wrong: 100, p: 0.7474747474747475
+
+n_train_images 105 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 154, wrong: 56, p: 0.7333333333333333
+test score correct: 258, wrong: 138, p: 0.6515151515151515
+weighted potential train score correct: 153, wrong: 57, p: 0.7285714285714285
+weighted potential test score correct: 257, wrong: 139, p: 0.648989898989899
+
+n_train_images 105 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 152, wrong: 58, p: 0.7238095238095238
+test score correct: 258, wrong: 138, p: 0.6515151515151515
+weighted potential train score correct: 152, wrong: 58, p: 0.7238095238095238
+weighted potential test score correct: 258, wrong: 138, p: 0.6515151515151515
+
+n_train_images 110 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 194, wrong: 26, p: 0.8818181818181818
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+weighted potential train score correct: 193, wrong: 27, p: 0.8772727272727273
+weighted potential test score correct: 340, wrong: 56, p: 0.8585858585858586
+
+n_train_images 110 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 206, wrong: 14, p: 0.9363636363636364
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 203, wrong: 17, p: 0.9227272727272727
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 110 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 206, wrong: 14, p: 0.9363636363636364
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 205, wrong: 15, p: 0.9318181818181818
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 110 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 180, wrong: 40, p: 0.8181818181818182
+test score correct: 317, wrong: 79, p: 0.8005050505050505
+weighted potential train score correct: 175, wrong: 45, p: 0.7954545454545454
+weighted potential test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+n_train_images 110 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 175, wrong: 45, p: 0.7954545454545454
+test score correct: 281, wrong: 115, p: 0.7095959595959596
+weighted potential train score correct: 176, wrong: 44, p: 0.8
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+n_train_images 110 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 177, wrong: 43, p: 0.8045454545454546
+test score correct: 285, wrong: 111, p: 0.7196969696969697
+weighted potential train score correct: 179, wrong: 41, p: 0.8136363636363636
+weighted potential test score correct: 288, wrong: 108, p: 0.7272727272727273
+
+n_train_images 110 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 160, wrong: 60, p: 0.7272727272727273
+test score correct: 252, wrong: 144, p: 0.6363636363636364
+weighted potential train score correct: 159, wrong: 61, p: 0.7227272727272728
+weighted potential test score correct: 251, wrong: 145, p: 0.6338383838383839
+
+n_train_images 110 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 156, wrong: 64, p: 0.7090909090909091
+test score correct: 253, wrong: 143, p: 0.6388888888888888
+weighted potential train score correct: 156, wrong: 64, p: 0.7090909090909091
+weighted potential test score correct: 253, wrong: 143, p: 0.6388888888888888
+
+n_train_images 115 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 208, wrong: 22, p: 0.9043478260869565
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 203, wrong: 27, p: 0.8826086956521739
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 115 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 189, wrong: 41, p: 0.8217391304347826
+test score correct: 325, wrong: 71, p: 0.8207070707070707
+weighted potential train score correct: 184, wrong: 46, p: 0.8
+weighted potential test score correct: 319, wrong: 77, p: 0.8055555555555556
+
+n_train_images 115 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 216, wrong: 14, p: 0.9391304347826087
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 215, wrong: 15, p: 0.9347826086956522
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 115 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 217, wrong: 13, p: 0.9434782608695652
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 215, wrong: 15, p: 0.9347826086956522
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 115 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 184, wrong: 46, p: 0.8
+test score correct: 277, wrong: 119, p: 0.6994949494949495
+weighted potential train score correct: 184, wrong: 46, p: 0.8
+weighted potential test score correct: 280, wrong: 116, p: 0.7070707070707071
+
+n_train_images 115 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 184, wrong: 46, p: 0.8
+test score correct: 280, wrong: 116, p: 0.7070707070707071
+weighted potential train score correct: 186, wrong: 44, p: 0.808695652173913
+weighted potential test score correct: 282, wrong: 114, p: 0.7121212121212122
+
+n_train_images 115 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 164, wrong: 66, p: 0.7130434782608696
+test score correct: 254, wrong: 142, p: 0.6414141414141414
+weighted potential train score correct: 164, wrong: 66, p: 0.7130434782608696
+weighted potential test score correct: 253, wrong: 143, p: 0.6388888888888888
+
+n_train_images 115 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 164, wrong: 66, p: 0.7130434782608696
+test score correct: 255, wrong: 141, p: 0.6439393939393939
+weighted potential train score correct: 164, wrong: 66, p: 0.7130434782608696
+weighted potential test score correct: 255, wrong: 141, p: 0.6439393939393939
+
+n_train_images 120 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 215, wrong: 25, p: 0.8958333333333334
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 210, wrong: 30, p: 0.875
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 120 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 226, wrong: 14, p: 0.9416666666666667
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 224, wrong: 16, p: 0.9333333333333333
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 120 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 228, wrong: 12, p: 0.95
+test score correct: 371, wrong: 25, p: 0.9368686868686869
+weighted potential train score correct: 225, wrong: 15, p: 0.9375
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 120 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 196, wrong: 44, p: 0.8166666666666667
+test score correct: 329, wrong: 67, p: 0.8308080808080808
+weighted potential train score correct: 193, wrong: 47, p: 0.8041666666666667
+weighted potential test score correct: 321, wrong: 75, p: 0.8106060606060606
+
+n_train_images 120 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 188, wrong: 52, p: 0.7833333333333333
+test score correct: 276, wrong: 120, p: 0.696969696969697
+weighted potential train score correct: 188, wrong: 52, p: 0.7833333333333333
+weighted potential test score correct: 276, wrong: 120, p: 0.696969696969697
+
+n_train_images 120 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 190, wrong: 50, p: 0.7916666666666666
+test score correct: 275, wrong: 121, p: 0.6944444444444444
+weighted potential train score correct: 191, wrong: 49, p: 0.7958333333333333
+weighted potential test score correct: 277, wrong: 119, p: 0.6994949494949495
+
+n_train_images 120 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 174, wrong: 66, p: 0.725
+test score correct: 256, wrong: 140, p: 0.6464646464646465
+weighted potential train score correct: 174, wrong: 66, p: 0.725
+weighted potential test score correct: 255, wrong: 141, p: 0.6439393939393939
+
+n_train_images 120 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 173, wrong: 67, p: 0.7208333333333333
+test score correct: 258, wrong: 138, p: 0.6515151515151515
+weighted potential train score correct: 173, wrong: 67, p: 0.7208333333333333
+weighted potential test score correct: 258, wrong: 138, p: 0.6515151515151515
+
+n_train_images 125 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 224, wrong: 26, p: 0.896
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 220, wrong: 30, p: 0.88
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 125 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 238, wrong: 12, p: 0.952
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 235, wrong: 15, p: 0.94
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 125 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 205, wrong: 45, p: 0.82
+test score correct: 330, wrong: 66, p: 0.8333333333333334
+weighted potential train score correct: 202, wrong: 48, p: 0.808
+weighted potential test score correct: 323, wrong: 73, p: 0.8156565656565656
+
+n_train_images 125 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 236, wrong: 14, p: 0.944
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 234, wrong: 16, p: 0.936
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 125 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 188, wrong: 62, p: 0.752
+test score correct: 272, wrong: 124, p: 0.6868686868686869
+weighted potential train score correct: 190, wrong: 60, p: 0.76
+weighted potential test score correct: 273, wrong: 123, p: 0.6893939393939394
+
+n_train_images 125 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 190, wrong: 60, p: 0.76
+test score correct: 275, wrong: 121, p: 0.6944444444444444
+weighted potential train score correct: 193, wrong: 57, p: 0.772
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 125 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 171, wrong: 79, p: 0.684
+test score correct: 239, wrong: 157, p: 0.6035353535353535
+weighted potential train score correct: 171, wrong: 79, p: 0.684
+weighted potential test score correct: 239, wrong: 157, p: 0.6035353535353535
+
+n_train_images 125 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 172, wrong: 78, p: 0.688
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 172, wrong: 78, p: 0.688
+weighted potential test score correct: 242, wrong: 154, p: 0.6111111111111112
+
+n_train_images 130 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 233, wrong: 27, p: 0.8961538461538462
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 229, wrong: 31, p: 0.8807692307692307
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 130 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 248, wrong: 12, p: 0.9538461538461539
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 246, wrong: 14, p: 0.9461538461538461
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 130 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 213, wrong: 47, p: 0.8192307692307692
+test score correct: 328, wrong: 68, p: 0.8282828282828283
+weighted potential train score correct: 210, wrong: 50, p: 0.8076923076923077
+weighted potential test score correct: 322, wrong: 74, p: 0.8131313131313131
+
+n_train_images 130 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 246, wrong: 14, p: 0.9461538461538461
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 245, wrong: 15, p: 0.9423076923076923
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 130 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 201, wrong: 59, p: 0.7730769230769231
+test score correct: 274, wrong: 122, p: 0.6919191919191919
+weighted potential train score correct: 202, wrong: 58, p: 0.7769230769230769
+weighted potential test score correct: 275, wrong: 121, p: 0.6944444444444444
+
+n_train_images 130 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 197, wrong: 63, p: 0.7576923076923077
+test score correct: 274, wrong: 122, p: 0.6919191919191919
+weighted potential train score correct: 198, wrong: 62, p: 0.7615384615384615
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 130 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 181, wrong: 79, p: 0.6961538461538461
+test score correct: 244, wrong: 152, p: 0.6161616161616161
+weighted potential train score correct: 181, wrong: 79, p: 0.6961538461538461
+weighted potential test score correct: 244, wrong: 152, p: 0.6161616161616161
+
+n_train_images 130 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 181, wrong: 79, p: 0.6961538461538461
+test score correct: 246, wrong: 150, p: 0.6212121212121212
+weighted potential train score correct: 181, wrong: 79, p: 0.6961538461538461
+weighted potential test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+n_train_images 135 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 241, wrong: 29, p: 0.8925925925925926
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 237, wrong: 33, p: 0.8777777777777778
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 135 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 221, wrong: 49, p: 0.8185185185185185
+test score correct: 330, wrong: 66, p: 0.8333333333333334
+weighted potential train score correct: 218, wrong: 52, p: 0.8074074074074075
+weighted potential test score correct: 323, wrong: 73, p: 0.8156565656565656
+
+n_train_images 135 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 257, wrong: 13, p: 0.9518518518518518
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 255, wrong: 15, p: 0.9444444444444444
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 135 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 259, wrong: 11, p: 0.9592592592592593
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 256, wrong: 14, p: 0.9481481481481482
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 135 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 205, wrong: 65, p: 0.7592592592592593
+test score correct: 272, wrong: 124, p: 0.6868686868686869
+weighted potential train score correct: 207, wrong: 63, p: 0.7666666666666667
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 135 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 187, wrong: 83, p: 0.6925925925925925
+test score correct: 243, wrong: 153, p: 0.6136363636363636
+weighted potential train score correct: 187, wrong: 83, p: 0.6925925925925925
+weighted potential test score correct: 243, wrong: 153, p: 0.6136363636363636
+
+n_train_images 135 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 203, wrong: 67, p: 0.7518518518518519
+test score correct: 272, wrong: 124, p: 0.6868686868686869
+weighted potential train score correct: 203, wrong: 67, p: 0.7518518518518519
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 135 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 187, wrong: 83, p: 0.6925925925925925
+test score correct: 244, wrong: 152, p: 0.6161616161616161
+weighted potential train score correct: 187, wrong: 83, p: 0.6925925925925925
+weighted potential test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+n_train_images 140 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 251, wrong: 29, p: 0.8964285714285715
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 249, wrong: 31, p: 0.8892857142857142
+weighted potential test score correct: 347, wrong: 49, p: 0.8762626262626263
+
+n_train_images 140 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 231, wrong: 49, p: 0.825
+test score correct: 333, wrong: 63, p: 0.8409090909090909
+weighted potential train score correct: 228, wrong: 52, p: 0.8142857142857143
+weighted potential test score correct: 324, wrong: 72, p: 0.8181818181818182
+
+n_train_images 140 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 269, wrong: 11, p: 0.9607142857142857
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 265, wrong: 15, p: 0.9464285714285714
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 140 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 268, wrong: 12, p: 0.9571428571428572
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 266, wrong: 14, p: 0.95
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 140 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 211, wrong: 69, p: 0.7535714285714286
+test score correct: 272, wrong: 124, p: 0.6868686868686869
+weighted potential train score correct: 213, wrong: 67, p: 0.7607142857142857
+weighted potential test score correct: 273, wrong: 123, p: 0.6893939393939394
+
+n_train_images 140 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 194, wrong: 86, p: 0.6928571428571428
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+weighted potential train score correct: 194, wrong: 86, p: 0.6928571428571428
+weighted potential test score correct: 246, wrong: 150, p: 0.6212121212121212
+
+n_train_images 140 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 210, wrong: 70, p: 0.75
+test score correct: 271, wrong: 125, p: 0.6843434343434344
+weighted potential train score correct: 211, wrong: 69, p: 0.7535714285714286
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 140 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 194, wrong: 86, p: 0.6928571428571428
+test score correct: 244, wrong: 152, p: 0.6161616161616161
+weighted potential train score correct: 194, wrong: 86, p: 0.6928571428571428
+weighted potential test score correct: 244, wrong: 152, p: 0.6161616161616161
+
+n_train_images 145 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 260, wrong: 30, p: 0.896551724137931
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 258, wrong: 32, p: 0.8896551724137931
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 145 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 238, wrong: 52, p: 0.8206896551724138
+test score correct: 334, wrong: 62, p: 0.8434343434343434
+weighted potential train score correct: 235, wrong: 55, p: 0.8103448275862069
+weighted potential test score correct: 324, wrong: 72, p: 0.8181818181818182
+
+n_train_images 145 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 277, wrong: 13, p: 0.9551724137931035
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 276, wrong: 14, p: 0.9517241379310345
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 145 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 217, wrong: 73, p: 0.7482758620689656
+test score correct: 271, wrong: 125, p: 0.6843434343434344
+weighted potential train score correct: 217, wrong: 73, p: 0.7482758620689656
+weighted potential test score correct: 274, wrong: 122, p: 0.6919191919191919
+
+n_train_images 145 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 217, wrong: 73, p: 0.7482758620689656
+test score correct: 273, wrong: 123, p: 0.6893939393939394
+weighted potential train score correct: 218, wrong: 72, p: 0.7517241379310344
+weighted potential test score correct: 273, wrong: 123, p: 0.6893939393939394
+
+n_train_images 145 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 280, wrong: 10, p: 0.9655172413793104
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 275, wrong: 15, p: 0.9482758620689655
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 145 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 193, wrong: 97, p: 0.6655172413793103
+test score correct: 239, wrong: 157, p: 0.6035353535353535
+weighted potential train score correct: 193, wrong: 97, p: 0.6655172413793103
+weighted potential test score correct: 239, wrong: 157, p: 0.6035353535353535
+
+n_train_images 145 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 194, wrong: 96, p: 0.6689655172413793
+test score correct: 239, wrong: 157, p: 0.6035353535353535
+weighted potential train score correct: 194, wrong: 96, p: 0.6689655172413793
+weighted potential test score correct: 239, wrong: 157, p: 0.6035353535353535
+
+n_train_images 150 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 269, wrong: 31, p: 0.8966666666666666
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 267, wrong: 33, p: 0.89
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 150 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 287, wrong: 13, p: 0.9566666666666667
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 285, wrong: 15, p: 0.95
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 150 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 247, wrong: 53, p: 0.8233333333333334
+test score correct: 334, wrong: 62, p: 0.8434343434343434
+weighted potential train score correct: 243, wrong: 57, p: 0.81
+weighted potential test score correct: 327, wrong: 69, p: 0.8257575757575758
+
+n_train_images 150 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 290, wrong: 10, p: 0.9666666666666667
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 287, wrong: 13, p: 0.9566666666666667
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 150 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 227, wrong: 73, p: 0.7566666666666667
+test score correct: 269, wrong: 127, p: 0.6792929292929293
+weighted potential train score correct: 227, wrong: 73, p: 0.7566666666666667
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 150 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 203, wrong: 97, p: 0.6766666666666666
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+weighted potential train score correct: 203, wrong: 97, p: 0.6766666666666666
+weighted potential test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+n_train_images 150 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 225, wrong: 75, p: 0.75
+test score correct: 270, wrong: 126, p: 0.6818181818181818
+weighted potential train score correct: 225, wrong: 75, p: 0.75
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 150 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 202, wrong: 98, p: 0.6733333333333333
+test score correct: 244, wrong: 152, p: 0.6161616161616161
+weighted potential train score correct: 202, wrong: 98, p: 0.6733333333333333
+weighted potential test score correct: 244, wrong: 152, p: 0.6161616161616161
+
+n_train_images 155 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 280, wrong: 30, p: 0.9032258064516129
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 277, wrong: 33, p: 0.8935483870967742
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 155 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 258, wrong: 52, p: 0.832258064516129
+test score correct: 336, wrong: 60, p: 0.8484848484848485
+weighted potential train score correct: 253, wrong: 57, p: 0.8161290322580645
+weighted potential test score correct: 329, wrong: 67, p: 0.8308080808080808
+
+n_train_images 155 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 297, wrong: 13, p: 0.9580645161290322
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 295, wrong: 15, p: 0.9516129032258065
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 155 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 299, wrong: 11, p: 0.964516129032258
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 297, wrong: 13, p: 0.9580645161290322
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 155 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 234, wrong: 76, p: 0.7548387096774194
+test score correct: 268, wrong: 128, p: 0.6767676767676768
+weighted potential train score correct: 235, wrong: 75, p: 0.7580645161290323
+weighted potential test score correct: 270, wrong: 126, p: 0.6818181818181818
+
+n_train_images 155 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 230, wrong: 80, p: 0.7419354838709677
+test score correct: 267, wrong: 129, p: 0.6742424242424242
+weighted potential train score correct: 231, wrong: 79, p: 0.7451612903225806
+weighted potential test score correct: 268, wrong: 128, p: 0.6767676767676768
+
+n_train_images 155 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 209, wrong: 101, p: 0.6741935483870968
+test score correct: 246, wrong: 150, p: 0.6212121212121212
+weighted potential train score correct: 209, wrong: 101, p: 0.6741935483870968
+weighted potential test score correct: 246, wrong: 150, p: 0.6212121212121212
+
+n_train_images 155 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 208, wrong: 102, p: 0.6709677419354839
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+weighted potential train score correct: 208, wrong: 102, p: 0.6709677419354839
+weighted potential test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+n_train_images 160 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 290, wrong: 30, p: 0.90625
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 287, wrong: 33, p: 0.896875
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 160 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 309, wrong: 11, p: 0.965625
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 307, wrong: 13, p: 0.959375
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 160 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 268, wrong: 52, p: 0.8375
+test score correct: 337, wrong: 59, p: 0.851010101010101
+weighted potential train score correct: 261, wrong: 59, p: 0.815625
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 160 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 309, wrong: 11, p: 0.965625
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 307, wrong: 13, p: 0.959375
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 160 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 216, wrong: 104, p: 0.675
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+weighted potential train score correct: 216, wrong: 104, p: 0.675
+weighted potential test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+n_train_images 160 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 242, wrong: 78, p: 0.75625
+test score correct: 269, wrong: 127, p: 0.6792929292929293
+weighted potential train score correct: 243, wrong: 77, p: 0.759375
+weighted potential test score correct: 272, wrong: 124, p: 0.6868686868686869
+
+n_train_images 160 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 238, wrong: 82, p: 0.74375
+test score correct: 269, wrong: 127, p: 0.6792929292929293
+weighted potential train score correct: 238, wrong: 82, p: 0.74375
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 160 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 215, wrong: 105, p: 0.671875
+test score correct: 248, wrong: 148, p: 0.6262626262626263
+weighted potential train score correct: 215, wrong: 105, p: 0.671875
+weighted potential test score correct: 248, wrong: 148, p: 0.6262626262626263
+
+n_train_images 165 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 276, wrong: 54, p: 0.8363636363636363
+test score correct: 339, wrong: 57, p: 0.8560606060606061
+weighted potential train score correct: 270, wrong: 60, p: 0.8181818181818182
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 165 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 299, wrong: 31, p: 0.906060606060606
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 296, wrong: 34, p: 0.896969696969697
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 165 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 321, wrong: 9, p: 0.9727272727272728
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 318, wrong: 12, p: 0.9636363636363636
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 165 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 246, wrong: 84, p: 0.7454545454545455
+test score correct: 266, wrong: 130, p: 0.6717171717171717
+weighted potential train score correct: 246, wrong: 84, p: 0.7454545454545455
+weighted potential test score correct: 266, wrong: 130, p: 0.6717171717171717
+
+n_train_images 165 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 249, wrong: 81, p: 0.7545454545454545
+test score correct: 267, wrong: 129, p: 0.6742424242424242
+weighted potential train score correct: 251, wrong: 79, p: 0.7606060606060606
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 165 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 320, wrong: 10, p: 0.9696969696969697
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 319, wrong: 11, p: 0.9666666666666667
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 165 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 224, wrong: 106, p: 0.6787878787878788
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+weighted potential train score correct: 223, wrong: 107, p: 0.6757575757575758
+weighted potential test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+n_train_images 165 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 223, wrong: 107, p: 0.6757575757575758
+test score correct: 248, wrong: 148, p: 0.6262626262626263
+weighted potential train score correct: 222, wrong: 108, p: 0.6727272727272727
+weighted potential test score correct: 248, wrong: 148, p: 0.6262626262626263
+
+n_train_images 170 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 308, wrong: 32, p: 0.9058823529411765
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 305, wrong: 35, p: 0.8970588235294118
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 170 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 331, wrong: 9, p: 0.9735294117647059
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 329, wrong: 11, p: 0.9676470588235294
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 170 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 281, wrong: 59, p: 0.8264705882352941
+test score correct: 337, wrong: 59, p: 0.851010101010101
+weighted potential train score correct: 276, wrong: 64, p: 0.8117647058823529
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 170 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 331, wrong: 9, p: 0.9735294117647059
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 328, wrong: 12, p: 0.9647058823529412
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 170 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 253, wrong: 87, p: 0.7441176470588236
+test score correct: 269, wrong: 127, p: 0.6792929292929293
+weighted potential train score correct: 253, wrong: 87, p: 0.7441176470588236
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 170 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 222, wrong: 118, p: 0.6529411764705882
+test score correct: 241, wrong: 155, p: 0.6085858585858586
+weighted potential train score correct: 222, wrong: 118, p: 0.6529411764705882
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 170 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 254, wrong: 86, p: 0.7470588235294118
+test score correct: 267, wrong: 129, p: 0.6742424242424242
+weighted potential train score correct: 253, wrong: 87, p: 0.7441176470588236
+weighted potential test score correct: 267, wrong: 129, p: 0.6742424242424242
+
+n_train_images 170 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 225, wrong: 115, p: 0.6617647058823529
+test score correct: 241, wrong: 155, p: 0.6085858585858586
+weighted potential train score correct: 224, wrong: 116, p: 0.6588235294117647
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 175 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 316, wrong: 34, p: 0.9028571428571428
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 313, wrong: 37, p: 0.8942857142857142
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 175 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 341, wrong: 9, p: 0.9742857142857143
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 339, wrong: 11, p: 0.9685714285714285
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 175 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 289, wrong: 61, p: 0.8257142857142857
+test score correct: 337, wrong: 59, p: 0.851010101010101
+weighted potential train score correct: 284, wrong: 66, p: 0.8114285714285714
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 175 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 340, wrong: 10, p: 0.9714285714285714
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 339, wrong: 11, p: 0.9685714285714285
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 175 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 263, wrong: 87, p: 0.7514285714285714
+test score correct: 268, wrong: 128, p: 0.6767676767676768
+weighted potential train score correct: 262, wrong: 88, p: 0.7485714285714286
+weighted potential test score correct: 269, wrong: 127, p: 0.6792929292929293
+
+n_train_images 175 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 231, wrong: 119, p: 0.66
+test score correct: 241, wrong: 155, p: 0.6085858585858586
+weighted potential train score correct: 230, wrong: 120, p: 0.6571428571428571
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 175 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 261, wrong: 89, p: 0.7457142857142857
+test score correct: 266, wrong: 130, p: 0.6717171717171717
+weighted potential train score correct: 260, wrong: 90, p: 0.7428571428571429
+weighted potential test score correct: 267, wrong: 129, p: 0.6742424242424242
+
+n_train_images 175 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 229, wrong: 121, p: 0.6542857142857142
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 228, wrong: 122, p: 0.6514285714285715
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 180 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 300, wrong: 60, p: 0.8333333333333334
+test score correct: 339, wrong: 57, p: 0.8560606060606061
+weighted potential train score correct: 295, wrong: 65, p: 0.8194444444444444
+weighted potential test score correct: 332, wrong: 64, p: 0.8383838383838383
+
+n_train_images 180 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 325, wrong: 35, p: 0.9027777777777778
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 322, wrong: 38, p: 0.8944444444444445
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 180 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 348, wrong: 12, p: 0.9666666666666667
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 350, wrong: 10, p: 0.9722222222222222
+weighted potential test score correct: 379, wrong: 17, p: 0.9570707070707071
+
+n_train_images 180 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 270, wrong: 90, p: 0.75
+test score correct: 265, wrong: 131, p: 0.6691919191919192
+weighted potential train score correct: 268, wrong: 92, p: 0.7444444444444445
+weighted potential test score correct: 267, wrong: 129, p: 0.6742424242424242
+
+n_train_images 180 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 348, wrong: 12, p: 0.9666666666666667
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 350, wrong: 10, p: 0.9722222222222222
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 180 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 267, wrong: 93, p: 0.7416666666666667
+test score correct: 263, wrong: 133, p: 0.6641414141414141
+weighted potential train score correct: 267, wrong: 93, p: 0.7416666666666667
+weighted potential test score correct: 264, wrong: 132, p: 0.6666666666666666
+
+n_train_images 180 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 238, wrong: 122, p: 0.6611111111111111
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 238, wrong: 122, p: 0.6611111111111111
+weighted potential test score correct: 242, wrong: 154, p: 0.6111111111111112
+
+n_train_images 180 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 234, wrong: 126, p: 0.65
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 233, wrong: 127, p: 0.6472222222222223
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 185 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 331, wrong: 39, p: 0.8945945945945946
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 327, wrong: 43, p: 0.8837837837837837
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 185 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 358, wrong: 12, p: 0.9675675675675676
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 359, wrong: 11, p: 0.9702702702702702
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 185 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 306, wrong: 64, p: 0.827027027027027
+test score correct: 337, wrong: 59, p: 0.851010101010101
+weighted potential train score correct: 302, wrong: 68, p: 0.8162162162162162
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 185 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 358, wrong: 12, p: 0.9675675675675676
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 359, wrong: 11, p: 0.9702702702702702
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+n_train_images 185 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 246, wrong: 124, p: 0.6648648648648648
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 246, wrong: 124, p: 0.6648648648648648
+weighted potential test score correct: 242, wrong: 154, p: 0.6111111111111112
+
+n_train_images 185 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 276, wrong: 94, p: 0.745945945945946
+test score correct: 264, wrong: 132, p: 0.6666666666666666
+weighted potential train score correct: 276, wrong: 94, p: 0.745945945945946
+weighted potential test score correct: 266, wrong: 130, p: 0.6717171717171717
+
+n_train_images 185 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 276, wrong: 94, p: 0.745945945945946
+test score correct: 266, wrong: 130, p: 0.6717171717171717
+weighted potential train score correct: 277, wrong: 93, p: 0.7486486486486487
+weighted potential test score correct: 268, wrong: 128, p: 0.6767676767676768
+
+n_train_images 185 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 242, wrong: 128, p: 0.654054054054054
+test score correct: 242, wrong: 154, p: 0.6111111111111112
+weighted potential train score correct: 241, wrong: 129, p: 0.6513513513513514
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 190 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 340, wrong: 40, p: 0.8947368421052632
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 336, wrong: 44, p: 0.8842105263157894
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 190 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 314, wrong: 66, p: 0.8263157894736842
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 310, wrong: 70, p: 0.8157894736842105
+weighted potential test score correct: 330, wrong: 66, p: 0.8333333333333334
+
+n_train_images 190 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 367, wrong: 13, p: 0.9657894736842105
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 369, wrong: 11, p: 0.9710526315789474
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 190 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 366, wrong: 14, p: 0.9631578947368421
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 368, wrong: 12, p: 0.968421052631579
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+n_train_images 190 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 282, wrong: 98, p: 0.7421052631578947
+test score correct: 265, wrong: 131, p: 0.6691919191919192
+weighted potential train score correct: 282, wrong: 98, p: 0.7421052631578947
+weighted potential test score correct: 265, wrong: 131, p: 0.6691919191919192
+
+n_train_images 190 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 281, wrong: 99, p: 0.7394736842105263
+test score correct: 263, wrong: 133, p: 0.6641414141414141
+weighted potential train score correct: 282, wrong: 98, p: 0.7421052631578947
+weighted potential test score correct: 263, wrong: 133, p: 0.6641414141414141
+
+n_train_images 190 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 245, wrong: 135, p: 0.6447368421052632
+test score correct: 240, wrong: 156, p: 0.6060606060606061
+weighted potential train score correct: 244, wrong: 136, p: 0.6421052631578947
+weighted potential test score correct: 239, wrong: 157, p: 0.6035353535353535
+
+n_train_images 190 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 248, wrong: 132, p: 0.6526315789473685
+test score correct: 241, wrong: 155, p: 0.6085858585858586
+weighted potential train score correct: 248, wrong: 132, p: 0.6526315789473685
+weighted potential test score correct: 241, wrong: 155, p: 0.6085858585858586
+
+n_train_images 195 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 324, wrong: 66, p: 0.8307692307692308
+test score correct: 339, wrong: 57, p: 0.8560606060606061
+weighted potential train score correct: 318, wrong: 72, p: 0.8153846153846154
+weighted potential test score correct: 331, wrong: 65, p: 0.8358585858585859
+
+n_train_images 195 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 349, wrong: 41, p: 0.8948717948717949
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 345, wrong: 45, p: 0.8846153846153846
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 195 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 376, wrong: 14, p: 0.9641025641025641
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 379, wrong: 11, p: 0.9717948717948718
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 195 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 374, wrong: 16, p: 0.958974358974359
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 376, wrong: 14, p: 0.9641025641025641
+weighted potential test score correct: 379, wrong: 17, p: 0.9570707070707071
+
+n_train_images 195 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 288, wrong: 102, p: 0.7384615384615385
+test score correct: 263, wrong: 133, p: 0.6641414141414141
+weighted potential train score correct: 290, wrong: 100, p: 0.7435897435897436
+weighted potential test score correct: 264, wrong: 132, p: 0.6666666666666666
+
+n_train_images 195 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 259, wrong: 131, p: 0.6641025641025641
+test score correct: 246, wrong: 150, p: 0.6212121212121212
+weighted potential train score correct: 258, wrong: 132, p: 0.6615384615384615
+weighted potential test score correct: 246, wrong: 150, p: 0.6212121212121212
+
+n_train_images 195 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 292, wrong: 98, p: 0.7487179487179487
+test score correct: 263, wrong: 133, p: 0.6641414141414141
+weighted potential train score correct: 292, wrong: 98, p: 0.7487179487179487
+weighted potential test score correct: 265, wrong: 131, p: 0.6691919191919192
+
+n_train_images 195 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 257, wrong: 133, p: 0.658974358974359
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+weighted potential train score correct: 256, wrong: 134, p: 0.6564102564102564
+weighted potential test score correct: 244, wrong: 152, p: 0.6161616161616161
+
+n_train_images 200 weights_id 0 w_factor 0.1 rand_init 0.05
+train score correct: 334, wrong: 66, p: 0.835
+test score correct: 341, wrong: 55, p: 0.8611111111111112
+weighted potential train score correct: 328, wrong: 72, p: 0.82
+weighted potential test score correct: 333, wrong: 63, p: 0.8409090909090909
+
+n_train_images 200 weights_id 0 w_factor 100.0 rand_init 0.0
+train score correct: 245, wrong: 155, p: 0.6125
+test score correct: 225, wrong: 171, p: 0.5681818181818182
+weighted potential train score correct: 245, wrong: 155, p: 0.6125
+weighted potential test score correct: 225, wrong: 171, p: 0.5681818181818182
+
+n_train_images 200 weights_id 0 w_factor 1.0 rand_init 0.0
+train score correct: 379, wrong: 21, p: 0.9475
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 386, wrong: 14, p: 0.965
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+n_train_images 200 weights_id 0 w_factor 0.1 rand_init 0.0
+train score correct: 358, wrong: 42, p: 0.895
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 355, wrong: 45, p: 0.8875
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 200 weights_id 0 w_factor 1.0 rand_init 0.05
+train score correct: 382, wrong: 18, p: 0.955
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 387, wrong: 13, p: 0.9675
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+n_train_images 200 weights_id 0 w_factor 10.0 rand_init 0.05
+train score correct: 289, wrong: 111, p: 0.7225
+test score correct: 262, wrong: 134, p: 0.6616161616161617
+weighted potential train score correct: 294, wrong: 106, p: 0.735
+weighted potential test score correct: 263, wrong: 133, p: 0.6641414141414141
+
+n_train_images 200 weights_id 0 w_factor 10.0 rand_init 0.0
+train score correct: 291, wrong: 109, p: 0.7275
+test score correct: 261, wrong: 135, p: 0.6590909090909091
+weighted potential train score correct: 294, wrong: 106, p: 0.735
+weighted potential test score correct: 262, wrong: 134, p: 0.6616161616161617
+
+n_train_images 200 weights_id 0 w_factor 100.0 rand_init 0.05
+train score correct: 244, wrong: 156, p: 0.61
+test score correct: 225, wrong: 171, p: 0.5681818181818182
+weighted potential train score correct: 244, wrong: 156, p: 0.61
+weighted potential test score correct: 225, wrong: 171, p: 0.5681818181818182
+
+n_train_images 5 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 317, wrong: 79, p: 0.8005050505050505
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 309, wrong: 87, p: 0.7803030303030303
+
+n_train_images 5 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 326, wrong: 70, p: 0.8232323232323232
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 321, wrong: 75, p: 0.8106060606060606
+
+n_train_images 5 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 340, wrong: 56, p: 0.8585858585858586
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 331, wrong: 65, p: 0.8358585858585859
+
+n_train_images 10 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 18, wrong: 2, p: 0.9
+weighted potential test score correct: 337, wrong: 59, p: 0.851010101010101
+
+n_train_images 10 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 354, wrong: 42, p: 0.8939393939393939
+weighted potential train score correct: 18, wrong: 2, p: 0.9
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 10 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 18, wrong: 2, p: 0.9
+weighted potential test score correct: 353, wrong: 43, p: 0.8914141414141414
+
+n_train_images 15 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 28, wrong: 2, p: 0.9333333333333333
+test score correct: 359, wrong: 37, p: 0.9065656565656566
+weighted potential train score correct: 27, wrong: 3, p: 0.9
+weighted potential test score correct: 356, wrong: 40, p: 0.898989898989899
+
+n_train_images 15 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 29, wrong: 1, p: 0.9666666666666667
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 29, wrong: 1, p: 0.9666666666666667
+weighted potential test score correct: 366, wrong: 30, p: 0.9242424242424242
+
+n_train_images 15 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 29, wrong: 1, p: 0.9666666666666667
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 27, wrong: 3, p: 0.9
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 20 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 37, wrong: 3, p: 0.925
+test score correct: 356, wrong: 40, p: 0.898989898989899
+weighted potential train score correct: 37, wrong: 3, p: 0.925
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 20 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 38, wrong: 2, p: 0.95
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 37, wrong: 3, p: 0.925
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+n_train_images 20 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 39, wrong: 1, p: 0.975
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 38, wrong: 2, p: 0.95
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 25 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 44, wrong: 6, p: 0.88
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 44, wrong: 6, p: 0.88
+weighted potential test score correct: 354, wrong: 42, p: 0.8939393939393939
+
+n_train_images 25 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 45, wrong: 5, p: 0.9
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 45, wrong: 5, p: 0.9
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 25 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 46, wrong: 4, p: 0.92
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 45, wrong: 5, p: 0.9
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 30 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 54, wrong: 6, p: 0.9
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 54, wrong: 6, p: 0.9
+weighted potential test score correct: 348, wrong: 48, p: 0.8787878787878788
+
+n_train_images 30 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 54, wrong: 6, p: 0.9
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 54, wrong: 6, p: 0.9
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 30 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 55, wrong: 5, p: 0.9166666666666666
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 54, wrong: 6, p: 0.9
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 35 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 360, wrong: 36, p: 0.9090909090909091
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 357, wrong: 39, p: 0.9015151515151515
+
+n_train_images 35 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 65, wrong: 5, p: 0.9285714285714286
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 35 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 66, wrong: 4, p: 0.9428571428571428
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 65, wrong: 5, p: 0.9285714285714286
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 40 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 40 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 73, wrong: 7, p: 0.9125
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 73, wrong: 7, p: 0.9125
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 40 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 75, wrong: 5, p: 0.9375
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 74, wrong: 6, p: 0.925
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 45 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 82, wrong: 8, p: 0.9111111111111111
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 82, wrong: 8, p: 0.9111111111111111
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 45 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 85, wrong: 5, p: 0.9444444444444444
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 84, wrong: 6, p: 0.9333333333333333
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 45 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 84, wrong: 6, p: 0.9333333333333333
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 85, wrong: 5, p: 0.9444444444444444
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 50 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 91, wrong: 9, p: 0.91
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 91, wrong: 9, p: 0.91
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 50 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 95, wrong: 5, p: 0.95
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 93, wrong: 7, p: 0.93
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 50 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 93, wrong: 7, p: 0.93
+test score correct: 371, wrong: 25, p: 0.9368686868686869
+weighted potential train score correct: 93, wrong: 7, p: 0.93
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 55 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 102, wrong: 8, p: 0.9272727272727272
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 101, wrong: 9, p: 0.9181818181818182
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 55 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 103, wrong: 7, p: 0.9363636363636364
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 102, wrong: 8, p: 0.9272727272727272
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 55 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 102, wrong: 8, p: 0.9272727272727272
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 102, wrong: 8, p: 0.9272727272727272
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 60 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 110, wrong: 10, p: 0.9166666666666666
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 109, wrong: 11, p: 0.9083333333333333
+weighted potential test score correct: 367, wrong: 29, p: 0.9267676767676768
+
+n_train_images 60 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 112, wrong: 8, p: 0.9333333333333333
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 112, wrong: 8, p: 0.9333333333333333
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 60 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 109, wrong: 11, p: 0.9083333333333333
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 109, wrong: 11, p: 0.9083333333333333
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 65 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 121, wrong: 9, p: 0.9307692307692308
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 120, wrong: 10, p: 0.9230769230769231
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 65 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 122, wrong: 8, p: 0.9384615384615385
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 122, wrong: 8, p: 0.9384615384615385
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 65 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 118, wrong: 12, p: 0.9076923076923077
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 117, wrong: 13, p: 0.9
+weighted potential test score correct: 367, wrong: 29, p: 0.9267676767676768
+
+n_train_images 70 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 131, wrong: 9, p: 0.9357142857142857
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 130, wrong: 10, p: 0.9285714285714286
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 70 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 132, wrong: 8, p: 0.9428571428571428
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 132, wrong: 8, p: 0.9428571428571428
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 70 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 127, wrong: 13, p: 0.9071428571428571
+test score correct: 363, wrong: 33, p: 0.9166666666666666
+weighted potential train score correct: 126, wrong: 14, p: 0.9
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 75 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 142, wrong: 8, p: 0.9466666666666667
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 140, wrong: 10, p: 0.9333333333333333
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 75 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 141, wrong: 9, p: 0.94
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 142, wrong: 8, p: 0.9466666666666667
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 75 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 136, wrong: 14, p: 0.9066666666666666
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 136, wrong: 14, p: 0.9066666666666666
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 80 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 151, wrong: 9, p: 0.94375
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 150, wrong: 10, p: 0.9375
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 80 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 147, wrong: 13, p: 0.91875
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 150, wrong: 10, p: 0.9375
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 80 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 144, wrong: 16, p: 0.9
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 144, wrong: 16, p: 0.9
+weighted potential test score correct: 361, wrong: 35, p: 0.9116161616161617
+
+n_train_images 85 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 162, wrong: 8, p: 0.9529411764705882
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 160, wrong: 10, p: 0.9411764705882353
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 85 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 157, wrong: 13, p: 0.9235294117647059
+test score correct: 370, wrong: 26, p: 0.9343434343434344
+weighted potential train score correct: 157, wrong: 13, p: 0.9235294117647059
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 85 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 150, wrong: 20, p: 0.8823529411764706
+test score correct: 351, wrong: 45, p: 0.8863636363636364
+weighted potential train score correct: 151, wrong: 19, p: 0.888235294117647
+weighted potential test score correct: 358, wrong: 38, p: 0.9040404040404041
+
+n_train_images 90 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 172, wrong: 8, p: 0.9555555555555556
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 171, wrong: 9, p: 0.95
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 90 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 169, wrong: 11, p: 0.9388888888888889
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 168, wrong: 12, p: 0.9333333333333333
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 90 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 157, wrong: 23, p: 0.8722222222222222
+test score correct: 349, wrong: 47, p: 0.8813131313131313
+weighted potential train score correct: 160, wrong: 20, p: 0.8888888888888888
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 95 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 182, wrong: 8, p: 0.9578947368421052
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 182, wrong: 8, p: 0.9578947368421052
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 95 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 177, wrong: 13, p: 0.9315789473684211
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 177, wrong: 13, p: 0.9315789473684211
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 95 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 166, wrong: 24, p: 0.8736842105263158
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 166, wrong: 24, p: 0.8736842105263158
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 100 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 192, wrong: 8, p: 0.96
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 192, wrong: 8, p: 0.96
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 100 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 186, wrong: 14, p: 0.93
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 186, wrong: 14, p: 0.93
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 100 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 176, wrong: 24, p: 0.88
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 177, wrong: 23, p: 0.885
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 105 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 200, wrong: 10, p: 0.9523809523809523
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 201, wrong: 9, p: 0.9571428571428572
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 105 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 194, wrong: 16, p: 0.9238095238095239
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 196, wrong: 14, p: 0.9333333333333333
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 105 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 184, wrong: 26, p: 0.8761904761904762
+test score correct: 344, wrong: 52, p: 0.8686868686868687
+weighted potential train score correct: 183, wrong: 27, p: 0.8714285714285714
+weighted potential test score correct: 349, wrong: 47, p: 0.8813131313131313
+
+n_train_images 110 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 207, wrong: 13, p: 0.9409090909090909
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 210, wrong: 10, p: 0.9545454545454546
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 110 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 200, wrong: 20, p: 0.9090909090909091
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 203, wrong: 17, p: 0.9227272727272727
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 110 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 190, wrong: 30, p: 0.8636363636363636
+test score correct: 341, wrong: 55, p: 0.8611111111111112
+weighted potential train score correct: 193, wrong: 27, p: 0.8772727272727273
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 115 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 216, wrong: 14, p: 0.9391304347826087
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 219, wrong: 11, p: 0.9521739130434783
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 115 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 207, wrong: 23, p: 0.9
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 209, wrong: 21, p: 0.908695652173913
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 115 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 199, wrong: 31, p: 0.8652173913043478
+test score correct: 334, wrong: 62, p: 0.8434343434343434
+weighted potential train score correct: 200, wrong: 30, p: 0.8695652173913043
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 120 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 225, wrong: 15, p: 0.9375
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 227, wrong: 13, p: 0.9458333333333333
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 120 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 213, wrong: 27, p: 0.8875
+test score correct: 363, wrong: 33, p: 0.9166666666666666
+weighted potential train score correct: 216, wrong: 24, p: 0.9
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 120 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 205, wrong: 35, p: 0.8541666666666666
+test score correct: 329, wrong: 67, p: 0.8308080808080808
+weighted potential train score correct: 207, wrong: 33, p: 0.8625
+weighted potential test score correct: 334, wrong: 62, p: 0.8434343434343434
+
+n_train_images 125 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 223, wrong: 27, p: 0.892
+test score correct: 355, wrong: 41, p: 0.8964646464646465
+weighted potential train score correct: 223, wrong: 27, p: 0.892
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 125 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 235, wrong: 15, p: 0.94
+test score correct: 370, wrong: 26, p: 0.9343434343434344
+weighted potential train score correct: 236, wrong: 14, p: 0.944
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 125 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 211, wrong: 39, p: 0.844
+test score correct: 319, wrong: 77, p: 0.8055555555555556
+weighted potential train score correct: 213, wrong: 37, p: 0.852
+weighted potential test score correct: 324, wrong: 72, p: 0.8181818181818182
+
+n_train_images 130 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 230, wrong: 30, p: 0.8846153846153846
+test score correct: 359, wrong: 37, p: 0.9065656565656566
+weighted potential train score correct: 230, wrong: 30, p: 0.8846153846153846
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 130 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 243, wrong: 17, p: 0.9346153846153846
+test score correct: 371, wrong: 25, p: 0.9368686868686869
+weighted potential train score correct: 244, wrong: 16, p: 0.9384615384615385
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+n_train_images 130 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 219, wrong: 41, p: 0.8423076923076923
+test score correct: 323, wrong: 73, p: 0.8156565656565656
+weighted potential train score correct: 221, wrong: 39, p: 0.85
+weighted potential test score correct: 326, wrong: 70, p: 0.8232323232323232
+
+n_train_images 135 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 238, wrong: 32, p: 0.8814814814814815
+test score correct: 352, wrong: 44, p: 0.8888888888888888
+weighted potential train score correct: 240, wrong: 30, p: 0.8888888888888888
+weighted potential test score correct: 357, wrong: 39, p: 0.9015151515151515
+
+n_train_images 135 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 250, wrong: 20, p: 0.9259259259259259
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 251, wrong: 19, p: 0.9296296296296296
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 135 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 226, wrong: 44, p: 0.837037037037037
+test score correct: 319, wrong: 77, p: 0.8055555555555556
+weighted potential train score correct: 229, wrong: 41, p: 0.8481481481481481
+weighted potential test score correct: 321, wrong: 75, p: 0.8106060606060606
+
+n_train_images 140 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 256, wrong: 24, p: 0.9142857142857143
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 258, wrong: 22, p: 0.9214285714285714
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 140 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 245, wrong: 35, p: 0.875
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 247, wrong: 33, p: 0.8821428571428571
+weighted potential test score correct: 357, wrong: 39, p: 0.9015151515151515
+
+n_train_images 140 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 235, wrong: 45, p: 0.8392857142857143
+test score correct: 316, wrong: 80, p: 0.797979797979798
+weighted potential train score correct: 236, wrong: 44, p: 0.8428571428571429
+weighted potential test score correct: 318, wrong: 78, p: 0.803030303030303
+
+n_train_images 145 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 266, wrong: 24, p: 0.9172413793103448
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 267, wrong: 23, p: 0.9206896551724137
+weighted potential test score correct: 371, wrong: 25, p: 0.9368686868686869
+
+n_train_images 145 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 254, wrong: 36, p: 0.8758620689655172
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 258, wrong: 32, p: 0.8896551724137931
+weighted potential test score correct: 354, wrong: 42, p: 0.8939393939393939
+
+n_train_images 145 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 242, wrong: 48, p: 0.8344827586206897
+test score correct: 314, wrong: 82, p: 0.7929292929292929
+weighted potential train score correct: 244, wrong: 46, p: 0.8413793103448276
+weighted potential test score correct: 315, wrong: 81, p: 0.7954545454545454
+
+n_train_images 150 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 275, wrong: 25, p: 0.9166666666666666
+test score correct: 365, wrong: 31, p: 0.9217171717171717
+weighted potential train score correct: 276, wrong: 24, p: 0.92
+weighted potential test score correct: 369, wrong: 27, p: 0.9318181818181818
+
+n_train_images 150 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 263, wrong: 37, p: 0.8766666666666667
+test score correct: 344, wrong: 52, p: 0.8686868686868687
+weighted potential train score correct: 262, wrong: 38, p: 0.8733333333333333
+weighted potential test score correct: 347, wrong: 49, p: 0.8762626262626263
+
+n_train_images 150 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 249, wrong: 51, p: 0.83
+test score correct: 312, wrong: 84, p: 0.7878787878787878
+weighted potential train score correct: 254, wrong: 46, p: 0.8466666666666667
+weighted potential test score correct: 313, wrong: 83, p: 0.7904040404040404
+
+n_train_images 155 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 282, wrong: 28, p: 0.9096774193548387
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 285, wrong: 25, p: 0.9193548387096774
+weighted potential test score correct: 366, wrong: 30, p: 0.9242424242424242
+
+n_train_images 155 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 271, wrong: 39, p: 0.8741935483870967
+test score correct: 342, wrong: 54, p: 0.8636363636363636
+weighted potential train score correct: 271, wrong: 39, p: 0.8741935483870967
+weighted potential test score correct: 347, wrong: 49, p: 0.8762626262626263
+
+n_train_images 155 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 258, wrong: 52, p: 0.832258064516129
+test score correct: 311, wrong: 85, p: 0.7853535353535354
+weighted potential train score correct: 260, wrong: 50, p: 0.8387096774193549
+weighted potential test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+n_train_images 160 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 290, wrong: 30, p: 0.90625
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+weighted potential train score correct: 293, wrong: 27, p: 0.915625
+weighted potential test score correct: 366, wrong: 30, p: 0.9242424242424242
+
+n_train_images 160 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 281, wrong: 39, p: 0.878125
+test score correct: 342, wrong: 54, p: 0.8636363636363636
+weighted potential train score correct: 279, wrong: 41, p: 0.871875
+weighted potential test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+n_train_images 160 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 265, wrong: 55, p: 0.828125
+test score correct: 310, wrong: 86, p: 0.7828282828282829
+weighted potential train score correct: 268, wrong: 52, p: 0.8375
+weighted potential test score correct: 313, wrong: 83, p: 0.7904040404040404
+
+n_train_images 165 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 297, wrong: 33, p: 0.9
+test score correct: 363, wrong: 33, p: 0.9166666666666666
+weighted potential train score correct: 301, wrong: 29, p: 0.9121212121212121
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 165 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 289, wrong: 41, p: 0.8757575757575757
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 291, wrong: 39, p: 0.8818181818181818
+weighted potential test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+n_train_images 165 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 274, wrong: 56, p: 0.8303030303030303
+test score correct: 306, wrong: 90, p: 0.7727272727272727
+weighted potential train score correct: 274, wrong: 56, p: 0.8303030303030303
+weighted potential test score correct: 309, wrong: 87, p: 0.7803030303030303
+
+n_train_images 170 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 307, wrong: 33, p: 0.9029411764705882
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 311, wrong: 29, p: 0.9147058823529411
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 170 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 296, wrong: 44, p: 0.8705882352941177
+test score correct: 339, wrong: 57, p: 0.8560606060606061
+weighted potential train score correct: 296, wrong: 44, p: 0.8705882352941177
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 170 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 279, wrong: 61, p: 0.8205882352941176
+test score correct: 302, wrong: 94, p: 0.7626262626262627
+weighted potential train score correct: 280, wrong: 60, p: 0.8235294117647058
+weighted potential test score correct: 305, wrong: 91, p: 0.7702020202020202
+
+n_train_images 175 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 315, wrong: 35, p: 0.9
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 319, wrong: 31, p: 0.9114285714285715
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 175 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 303, wrong: 47, p: 0.8657142857142858
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 305, wrong: 45, p: 0.8714285714285714
+weighted potential test score correct: 340, wrong: 56, p: 0.8585858585858586
+
+n_train_images 175 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 286, wrong: 64, p: 0.8171428571428572
+test score correct: 298, wrong: 98, p: 0.7525252525252525
+weighted potential train score correct: 287, wrong: 63, p: 0.82
+weighted potential test score correct: 303, wrong: 93, p: 0.7651515151515151
+
+n_train_images 180 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 323, wrong: 37, p: 0.8972222222222223
+test score correct: 360, wrong: 36, p: 0.9090909090909091
+weighted potential train score correct: 325, wrong: 35, p: 0.9027777777777778
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 180 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 293, wrong: 67, p: 0.8138888888888889
+test score correct: 297, wrong: 99, p: 0.75
+weighted potential train score correct: 294, wrong: 66, p: 0.8166666666666667
+weighted potential test score correct: 299, wrong: 97, p: 0.7550505050505051
+
+n_train_images 180 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 310, wrong: 50, p: 0.8611111111111112
+test score correct: 335, wrong: 61, p: 0.8459595959595959
+weighted potential train score correct: 313, wrong: 47, p: 0.8694444444444445
+weighted potential test score correct: 336, wrong: 60, p: 0.8484848484848485
+
+n_train_images 185 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 333, wrong: 37, p: 0.9
+test score correct: 361, wrong: 35, p: 0.9116161616161617
+weighted potential train score correct: 334, wrong: 36, p: 0.9027027027027027
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+n_train_images 185 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 319, wrong: 51, p: 0.8621621621621621
+test score correct: 336, wrong: 60, p: 0.8484848484848485
+weighted potential train score correct: 321, wrong: 49, p: 0.8675675675675676
+weighted potential test score correct: 338, wrong: 58, p: 0.8535353535353535
+
+n_train_images 185 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 301, wrong: 69, p: 0.8135135135135135
+test score correct: 297, wrong: 99, p: 0.75
+weighted potential train score correct: 302, wrong: 68, p: 0.8162162162162162
+weighted potential test score correct: 298, wrong: 98, p: 0.7525252525252525
+
+n_train_images 190 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 341, wrong: 39, p: 0.8973684210526316
+test score correct: 359, wrong: 37, p: 0.9065656565656566
+weighted potential train score correct: 342, wrong: 38, p: 0.9
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 190 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 327, wrong: 53, p: 0.8605263157894737
+test score correct: 333, wrong: 63, p: 0.8409090909090909
+weighted potential train score correct: 329, wrong: 51, p: 0.8657894736842106
+weighted potential test score correct: 337, wrong: 59, p: 0.851010101010101
+
+n_train_images 190 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 305, wrong: 75, p: 0.8026315789473685
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 309, wrong: 71, p: 0.8131578947368421
+weighted potential test score correct: 294, wrong: 102, p: 0.7424242424242424
+
+n_train_images 195 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 348, wrong: 42, p: 0.8923076923076924
+test score correct: 360, wrong: 36, p: 0.9090909090909091
+weighted potential train score correct: 349, wrong: 41, p: 0.8948717948717949
+weighted potential test score correct: 362, wrong: 34, p: 0.9141414141414141
+
+n_train_images 195 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 335, wrong: 55, p: 0.8589743589743589
+test score correct: 330, wrong: 66, p: 0.8333333333333334
+weighted potential train score correct: 337, wrong: 53, p: 0.8641025641025641
+weighted potential test score correct: 338, wrong: 58, p: 0.8535353535353535
+
+n_train_images 195 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 312, wrong: 78, p: 0.8
+test score correct: 288, wrong: 108, p: 0.7272727272727273
+weighted potential train score correct: 317, wrong: 73, p: 0.8128205128205128
+weighted potential test score correct: 293, wrong: 103, p: 0.73989898989899
+
+n_train_images 200 weights_id 0 w_factor 2.0 rand_init 0.05
+train score correct: 350, wrong: 50, p: 0.875
+test score correct: 354, wrong: 42, p: 0.8939393939393939
+weighted potential train score correct: 356, wrong: 44, p: 0.89
+weighted potential test score correct: 361, wrong: 35, p: 0.9116161616161617
+
+n_train_images 200 weights_id 0 w_factor 3.0 rand_init 0.05
+train score correct: 338, wrong: 62, p: 0.845
+test score correct: 328, wrong: 68, p: 0.8282828282828283
+weighted potential train score correct: 341, wrong: 59, p: 0.8525
+weighted potential test score correct: 333, wrong: 63, p: 0.8409090909090909
+
+n_train_images 200 weights_id 0 w_factor 5.0 rand_init 0.05
+train score correct: 319, wrong: 81, p: 0.7975
+test score correct: 281, wrong: 115, p: 0.7095959595959596
+weighted potential train score correct: 320, wrong: 80, p: 0.8
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+

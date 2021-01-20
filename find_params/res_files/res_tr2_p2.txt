@@ -1,0 +1,360 @@
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 0,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 335, wrong: 65, p: 0.8375 
+test score correct: 310, wrong: 86, p: 0.7828282828282829
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 201, wrong: 195, p: 0.5075757575757576
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 274, wrong: 126, p: 0.685 
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 234, wrong: 166, p: 0.585 
+test score correct: 224, wrong: 172, p: 0.5656565656565656
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 206, wrong: 194, p: 0.515 
+test score correct: 204, wrong: 192, p: 0.5151515151515151
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 209, wrong: 191, p: 0.5225 
+test score correct: 209, wrong: 187, p: 0.5277777777777778
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 276, wrong: 124, p: 0.69 
+test score correct: 253, wrong: 143, p: 0.6388888888888888
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 35
+train score correct: 202, wrong: 198, p: 0.505 
+test score correct: 199, wrong: 197, p: 0.5025252525252525
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 201, wrong: 195, p: 0.5075757575757576
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 50
+train score correct: 247, wrong: 153, p: 0.6175 
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 45
+train score correct: 222, wrong: 178, p: 0.555 
+test score correct: 212, wrong: 184, p: 0.5353535353535354
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 311, wrong: 89, p: 0.7775 
+test score correct: 279, wrong: 117, p: 0.7045454545454546
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 335, wrong: 65, p: 0.8375 
+test score correct: 310, wrong: 86, p: 0.7828282828282829
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 30
+train score correct: 247, wrong: 153, p: 0.6175 
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 274, wrong: 126, p: 0.685 
+test score correct: 247, wrong: 149, p: 0.6237373737373737
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 40
+train score correct: 204, wrong: 196, p: 0.51 
+test score correct: 200, wrong: 196, p: 0.5050505050505051
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 283, wrong: 117, p: 0.7075 
+test score correct: 292, wrong: 104, p: 0.7373737373737373
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 217, wrong: 183, p: 0.5425 
+test score correct: 223, wrong: 173, p: 0.5631313131313131
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 253, wrong: 147, p: 0.6325 
+test score correct: 259, wrong: 137, p: 0.6540404040404041
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 75
+train score correct: 251, wrong: 149, p: 0.6275 
+test score correct: 231, wrong: 165, p: 0.5833333333333334
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 90
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 55
+train score correct: 288, wrong: 112, p: 0.72 
+test score correct: 287, wrong: 109, p: 0.7247474747474747
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 95
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 65
+train score correct: 325, wrong: 75, p: 0.8125 
+test score correct: 321, wrong: 75, p: 0.8106060606060606
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 60
+train score correct: 327, wrong: 73, p: 0.8175 
+test score correct: 319, wrong: 77, p: 0.8055555555555556
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 70
+train score correct: 289, wrong: 111, p: 0.7225 
+test score correct: 293, wrong: 103, p: 0.73989898989899
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 80
+train score correct: 217, wrong: 183, p: 0.5425 
+test score correct: 205, wrong: 191, p: 0.5176767676767676
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 100
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L2: 85
+train score correct: 204, wrong: 196, p: 0.51 
+test score correct: 199, wrong: 197, p: 0.5025252525252525
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 209, wrong: 191, p: 0.5225 
+test score correct: 209, wrong: 187, p: 0.5277777777777778
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 40
+train score correct: 204, wrong: 196, p: 0.51 
+test score correct: 200, wrong: 196, p: 0.5050505050505051
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 234, wrong: 166, p: 0.585 
+test score correct: 224, wrong: 172, p: 0.5656565656565656
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 50
+train score correct: 248, wrong: 152, p: 0.62 
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 206, wrong: 194, p: 0.515 
+test score correct: 204, wrong: 192, p: 0.5151515151515151
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 276, wrong: 124, p: 0.69 
+test score correct: 253, wrong: 143, p: 0.6388888888888888
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 311, wrong: 89, p: 0.7775 
+test score correct: 279, wrong: 117, p: 0.7045454545454546
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 30
+train score correct: 238, wrong: 162, p: 0.595 
+test score correct: 235, wrong: 161, p: 0.5934343434343434
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 45
+train score correct: 217, wrong: 183, p: 0.5425 
+test score correct: 209, wrong: 187, p: 0.5277777777777778
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 35
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 200, wrong: 196, p: 0.5050505050505051
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 55
+train score correct: 292, wrong: 108, p: 0.73 
+test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 60
+train score correct: 328, wrong: 72, p: 0.82 
+test score correct: 315, wrong: 81, p: 0.7954545454545454
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 65
+train score correct: 313, wrong: 87, p: 0.7825 
+test score correct: 311, wrong: 85, p: 0.7853535353535354
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 70
+train score correct: 282, wrong: 118, p: 0.705 
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 75
+train score correct: 251, wrong: 149, p: 0.6275 
+test score correct: 230, wrong: 166, p: 0.5808080808080808
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 100
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 85
+train score correct: 206, wrong: 194, p: 0.515 
+test score correct: 199, wrong: 197, p: 0.5025252525252525
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 80
+train score correct: 220, wrong: 180, p: 0.55 
+test score correct: 206, wrong: 190, p: 0.5202020202020202
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 90
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 2,RANDOM_INIT: 0.8,TR_L2: 95
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 5
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 10
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 20
+train score correct: 283, wrong: 117, p: 0.7075 
+test score correct: 292, wrong: 104, p: 0.7373737373737373
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 15
+train score correct: 217, wrong: 183, p: 0.5425 
+test score correct: 223, wrong: 173, p: 0.5631313131313131
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 25
+train score correct: 253, wrong: 147, p: 0.6325 
+test score correct: 259, wrong: 137, p: 0.6540404040404041
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 40
+train score correct: 203, wrong: 197, p: 0.5075 
+test score correct: 199, wrong: 197, p: 0.5025252525252525
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 45
+train score correct: 217, wrong: 183, p: 0.5425 
+test score correct: 205, wrong: 191, p: 0.5176767676767676
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 30
+train score correct: 202, wrong: 198, p: 0.505 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 35
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 50
+train score correct: 247, wrong: 153, p: 0.6175 
+test score correct: 245, wrong: 151, p: 0.6186868686868687
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 55
+train score correct: 295, wrong: 105, p: 0.7375 
+test score correct: 287, wrong: 109, p: 0.7247474747474747
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 60
+train score correct: 327, wrong: 73, p: 0.8175 
+test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 70
+train score correct: 281, wrong: 119, p: 0.7025 
+test score correct: 287, wrong: 109, p: 0.7247474747474747
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 80
+train score correct: 220, wrong: 180, p: 0.55 
+test score correct: 205, wrong: 191, p: 0.5176767676767676
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 65
+train score correct: 313, wrong: 87, p: 0.7825 
+test score correct: 313, wrong: 83, p: 0.7904040404040404
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 75
+train score correct: 249, wrong: 151, p: 0.6225 
+test score correct: 230, wrong: 166, p: 0.5808080808080808
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 90
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 85
+train score correct: 205, wrong: 195, p: 0.5125 
+test score correct: 199, wrong: 197, p: 0.5025252525252525
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 95
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 1,SPIKES_T0_CONSIDER: -1,POOLING_W: 3,RANDOM_INIT: 0.8,TR_L2: 100
+train score correct: 200, wrong: 200, p: 0.5 
+test score correct: 198, wrong: 198, p: 0.5
+

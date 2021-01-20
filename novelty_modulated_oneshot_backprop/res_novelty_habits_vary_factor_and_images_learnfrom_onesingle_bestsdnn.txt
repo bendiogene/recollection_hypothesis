@@ -1,0 +1,1440 @@
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6515151515151515 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0123.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0058.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8914141414141414 weighted_potential_test: 0.8762626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0066.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0313.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6944444444444444
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0168.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7373737373737373 weighted_potential_test: 0.7222222222222222
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0064.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9116161616161617 weighted_potential_test: 0.9166666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0170.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0425.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.7222222222222222
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0027.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0053.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5606060606060606 weighted_potential_test: 0.553030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0050.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0168.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7121212121212122 weighted_potential_test: 0.76010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0015.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0374.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6060606060606061 weighted_potential_test: 0.5833333333333334
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0129.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0181.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8005050505050505
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0059.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8333333333333334 weighted_potential_test: 0.8459595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0124.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0284.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8888888888888888 weighted_potential_test: 0.898989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0001.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.8257575757575758
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0058.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0082.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5984848484848485 weighted_potential_test: 0.5353535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0035.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0298.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7222222222222222 weighted_potential_test: 0.6919191919191919
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0188.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0337.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8308080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0157.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0207.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5909090909090909 weighted_potential_test: 0.5580808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0036.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0102.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.648989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0167.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0253.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7626262626262627 weighted_potential_test: 0.6843434343434344
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0203.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0361.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0052.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0427.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5883838383838383 weighted_potential_test: 0.5681818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0188.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0363.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7853535353535354 weighted_potential_test: 0.7853535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0071.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0401.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5656565656565656 weighted_potential_test: 0.553030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0235.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0196.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8585858585858586 weighted_potential_test: 0.851010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0009.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0388.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8308080808080808 weighted_potential_test: 0.8459595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0075.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0082.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.8459595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0110.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0047.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0229.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6464646464646465
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0183.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8358585858585859 weighted_potential_test: 0.7651515151515151
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0021.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0276.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.7626262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0005.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0375.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7954545454545454 weighted_potential_test: 0.7853535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0003.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0194.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5505050505050505 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0342.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5151515151515151 weighted_potential_test: 0.5126262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0174.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0150.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6439393939393939
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0150.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0078.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5580808080808081 weighted_potential_test: 0.5454545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0112.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0067.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5732323232323232 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0204.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0069.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.8055555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0051.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0139.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0203.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6035353535353535 weighted_potential_test: 0.5681818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0110.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0298.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6717171717171717 weighted_potential_test: 0.6212121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0235.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0128.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5303030303030303 weighted_potential_test: 0.51010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0073.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0298.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5883838383838383 weighted_potential_test: 0.5404040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0204.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7272727272727273 weighted_potential_test: 0.6919191919191919
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0120.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0284.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8888888888888888 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0201.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0346.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5656565656565656 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0141.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0348.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5984848484848485 weighted_potential_test: 0.5580808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0145.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0011.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6363636363636364 weighted_potential_test: 0.5959595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0117.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6792929292929293 weighted_potential_test: 0.6035353535353535
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0033.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8257575757575758 weighted_potential_test: 0.8232323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0164.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7272727272727273 weighted_potential_test: 0.7196969696969697
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0017.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0269.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5025252525252525 weighted_potential_test: 0.5025252525252525
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0184.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0249.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.45707070707070707 weighted_potential_test: 0.4898989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0090.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0234.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8333333333333334 weighted_potential_test: 0.8358585858585859
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0210.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6868686868686869
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0068.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.547979797979798 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0082.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6767676767676768
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0140.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0253.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0017.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0214.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7247474747474747 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0067.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0273.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0146.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0086.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5277777777777778 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0204.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0113.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6262626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0188.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0025.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5631313131313131 weighted_potential_test: 0.5252525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0201.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0091.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0205.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0004.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0199.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7474747474747475 weighted_potential_test: 0.7272727272727273
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0020.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0056.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7752525252525253 weighted_potential_test: 0.7575757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0114.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0247.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5050505050505051 weighted_potential_test: 0.4823232323232323
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0078.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0067.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8005050505050505 weighted_potential_test: 0.73989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0130.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0416.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8661616161616161 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0226.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0330.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6060606060606061 weighted_potential_test: 0.5606060606060606
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0170.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0359.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5126262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0182.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0150.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8585858585858586 weighted_potential_test: 0.8838383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0162.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8005050505050505 weighted_potential_test: 0.797979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0075.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0232.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6767676767676768 weighted_potential_test: 0.6363636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0035.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0084.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7095959595959596 weighted_potential_test: 0.6590909090909091
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0031.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0366.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5 weighted_potential_test: 0.5
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0087.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0234.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8560606060606061 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0202.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0049.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.7575757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0013.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0229.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5984848484848485 weighted_potential_test: 0.5707070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0150.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0383.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6161616161616161 weighted_potential_test: 0.6035353535353535
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0209.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0152.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7373737373737373 weighted_potential_test: 0.7196969696969697
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0091.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0067.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6464646464646465
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0021.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0434.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9065656565656566 weighted_potential_test: 0.9116161616161617
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0162.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7954545454545454 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0010.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0093.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8813131313131313 weighted_potential_test: 0.8838383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0029.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0143.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6388888888888888 weighted_potential_test: 0.6540404040404041
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.797979797979798 weighted_potential_test: 0.7727272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0065.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0344.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7550505050505051 weighted_potential_test: 0.73989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0079.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0385.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6994949494949495 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0198.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0185.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5580808080808081 weighted_potential_test: 0.5782828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0037.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0135.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5631313131313131 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0226.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0025.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6641414141414141 weighted_potential_test: 0.6994949494949495
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0094.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0418.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6237373737373737
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0077.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0287.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6691919191919192 weighted_potential_test: 0.6616161616161617
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0269.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8611111111111112 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0041.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0106.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6388888888888888 weighted_potential_test: 0.601010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0229.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0192.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9040404040404041 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0079.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0157.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8383838383838383 weighted_potential_test: 0.8106060606060606
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0142.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0254.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7146464646464646 weighted_potential_test: 0.7070707070707071
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0049.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0168.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0225.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0328.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7550505050505051 weighted_potential_test: 0.7222222222222222
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0071.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.7702020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0127.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0337.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6717171717171717 weighted_potential_test: 0.6338383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0182.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0240.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8106060606060606 weighted_potential_test: 0.8055555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0036.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0045.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5454545454545454 weighted_potential_test: 0.5328282828282829
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0012.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0295.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.702020202020202 weighted_potential_test: 0.702020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0227.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8863636363636364 weighted_potential_test: 0.8838383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0022.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0275.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7702020202020202 weighted_potential_test: 0.7045454545454546
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0139.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0111.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7474747474747475 weighted_potential_test: 0.7752525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0143.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0225.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8207070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0020.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0416.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5126262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0112.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0091.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.76010101010101 weighted_potential_test: 0.7853535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0140.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0262.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7070707070707071 weighted_potential_test: 0.7222222222222222
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0418.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6666666666666666 weighted_potential_test: 0.6843434343434344
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0009.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0196.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6994949494949495 weighted_potential_test: 0.702020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0189.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0220.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6439393939393939
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0167.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0095.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5 weighted_potential_test: 0.5
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0231.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0166.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7752525252525253 weighted_potential_test: 0.7929292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0120.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0218.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7373737373737373 weighted_potential_test: 0.6919191919191919
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0108.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0381.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0218.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7474747474747475 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0065.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0320.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.5555555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0217.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0434.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.47474747474747475 weighted_potential_test: 0.4772727272727273
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0230.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0238.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.7146464646464646
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0173.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7045454545454546 weighted_potential_test: 0.6767676767676768
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0077.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0086.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6691919191919192 weighted_potential_test: 0.648989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0146.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0089.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6287878787878788 weighted_potential_test: 0.6590909090909091
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0074.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0370.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7727272727272727 weighted_potential_test: 0.7323232323232324
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0183.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0341.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7954545454545454 weighted_potential_test: 0.8080808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0004.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0254.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0142.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0047.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7424242424242424 weighted_potential_test: 0.6868686868686869
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0135.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0364.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6565656565656566 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0192.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0020.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0065.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0341.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.553030303030303 weighted_potential_test: 0.553030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0123.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0396.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6338383838383839 weighted_potential_test: 0.6111111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0222.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0165.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0067.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0199.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6085858585858586 weighted_potential_test: 0.5505050505050505
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0232.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0298.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7752525252525253 weighted_potential_test: 0.7828282828282829
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0213.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0225.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7954545454545454 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0010.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0093.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0215.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0348.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.696969696969697 weighted_potential_test: 0.6414141414141414
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0134.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0161.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8232323232323232 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0059.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0324.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0024.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0102.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6792929292929293 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0061.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0126.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6464646464646465 weighted_potential_test: 0.6464646464646465
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0181.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0097.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7878787878787878 weighted_potential_test: 0.797979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0015.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0359.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6111111111111112 weighted_potential_test: 0.5782828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0140.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0095.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6515151515151515
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0172.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0227.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5631313131313131 weighted_potential_test: 0.5227272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0204.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0034.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8383838383838383 weighted_potential_test: 0.8080808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0229.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0110.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0215.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0368.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5277777777777778
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0245.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8308080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0210.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0179.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7702020202020202 weighted_potential_test: 0.7727272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0079.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0170.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.42424242424242425 weighted_potential_test: 0.4217171717171717
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0223.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0363.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0106.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0315.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6742424242424242 weighted_potential_test: 0.6843434343434344
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0068.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0157.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7095959595959596 weighted_potential_test: 0.6717171717171717
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0364.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7525252525252525 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0100.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0089.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8611111111111112 weighted_potential_test: 0.8737373737373737
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0078.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0333.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8535353535353535 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0019.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0353.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0136.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0218.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6464646464646465 weighted_potential_test: 0.6287878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0128.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0148.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8888888888888888 weighted_potential_test: 0.9015151515151515
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0224.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0425.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8535353535353535 weighted_potential_test: 0.7727272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0169.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0060.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8560606060606061 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0046.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0302.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5025252525252525 weighted_potential_test: 0.5025252525252525
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0003.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0249.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8611111111111112 weighted_potential_test: 0.8737373737373737
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0006.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0106.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6363636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0013.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0001.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7272727272727273 weighted_potential_test: 0.7272727272727273
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0034.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0388.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5353535353535354 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0209.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0150.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9166666666666666 weighted_potential_test: 0.9166666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0038.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0410.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7171717171717171 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0231.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0168.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6237373737373737 weighted_potential_test: 0.6085858585858586
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0032.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0040.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5429292929292929 weighted_potential_test: 0.5126262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0083.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6035353535353535 weighted_potential_test: 0.5732323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0073.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0337.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8762626262626263 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0172.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0304.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5227272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0118.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0176.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7196969696969697 weighted_potential_test: 0.7070707070707071
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0089.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0240.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6287878787878788 weighted_potential_test: 0.6287878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0212.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0040.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8257575757575758 weighted_potential_test: 0.8232323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0055.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0232.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0079.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0386.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7878787878787878 weighted_potential_test: 0.803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0058.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9065656565656566 weighted_potential_test: 0.9267676767676768
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0168.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0139.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.601010101010101 weighted_potential_test: 0.6060606060606061
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0228.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0245.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7449494949494949 weighted_potential_test: 0.7095959595959596
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0182.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0335.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7853535353535354 weighted_potential_test: 0.7626262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0036.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0348.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8560606060606061 weighted_potential_test: 0.8611111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0016.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0405.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6590909090909091 weighted_potential_test: 0.6388888888888888
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0232.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0260.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8813131313131313 weighted_potential_test: 0.8611111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0049.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0177.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8787878787878788 weighted_potential_test: 0.8661616161616161
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0003.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0144.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8737373737373737 weighted_potential_test: 0.8813131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0092.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0284.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.41919191919191917 weighted_potential_test: 0.3838383838383838
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0030.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0273.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6287878787878788 weighted_potential_test: 0.6136363636363636
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0208.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0084.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.851010101010101 weighted_potential_test: 0.8358585858585859
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0152.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8106060606060606 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0370.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8005050505050505 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0109.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0082.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0059.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0375.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5277777777777778 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0226.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0159.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0177.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5227272727272727 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0004.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0232.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7575757575757576 weighted_potential_test: 0.7095959595959596
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0237.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0205.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0017.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0203.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6868686868686869
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0110.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0234.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8611111111111112 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0005.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0210.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.8207070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0203.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0313.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8661616161616161 weighted_potential_test: 0.8358585858585859
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0228.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0177.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6742424242424242
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0153.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5454545454545454 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0073.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0001.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6994949494949495 weighted_potential_test: 0.7045454545454546
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0074.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0185.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0144.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0188.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7222222222222222 weighted_potential_test: 0.7449494949494949
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0094.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0089.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7297979797979798 weighted_potential_test: 0.7676767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0260.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.547979797979798 weighted_potential_test: 0.547979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0215.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0432.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6641414141414141 weighted_potential_test: 0.6338383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0116.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0159.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7626262626262627 weighted_potential_test: 0.7196969696969697
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0011.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0051.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0192.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0368.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5025252525252525 weighted_potential_test: 0.5025252525252525
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0237.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0249.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6262626262626263 weighted_potential_test: 0.5606060606060606
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0222.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0397.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0032.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0058.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8838383838383839 weighted_potential_test: 0.8661616161616161
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0027.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0284.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0116.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0082.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5303030303030303 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0118.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0227.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7803030303030303 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0022.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0192.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7525252525252525 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0176.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7095959595959596 weighted_potential_test: 0.6540404040404041
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0108.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6060606060606061 weighted_potential_test: 0.6035353535353535
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0009.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0201.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6464646464646465 weighted_potential_test: 0.5782828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0135.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0055.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6212121212121212 weighted_potential_test: 0.6085858585858586
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0199.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0238.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7095959595959596 weighted_potential_test: 0.6717171717171717
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0132.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0364.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5378787878787878 weighted_potential_test: 0.5252525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0090.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0328.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8838383838383839 weighted_potential_test: 0.8636363636363636
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0234.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0143.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6540404040404041 weighted_potential_test: 0.6212121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0221.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0144.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6464646464646465 weighted_potential_test: 0.6186868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0232.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0403.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.45454545454545453 weighted_potential_test: 0.44696969696969696
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0071.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0260.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6691919191919192 weighted_potential_test: 0.6590909090909091
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0128.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6414141414141414 weighted_potential_test: 0.6161616161616161
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0050.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0337.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5959595959595959 weighted_potential_test: 0.5429292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0230.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.73989898989899 weighted_potential_test: 0.7247474747474747
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0130.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0339.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.696969696969697 weighted_potential_test: 0.7297979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0044.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7777777777777778 weighted_potential_test: 0.7297979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0092.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0118.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0148.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6388888888888888
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0011.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0271.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8383838383838383 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0148.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5353535353535354 weighted_potential_test: 0.5378787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0234.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7525252525252525 weighted_potential_test: 0.6994949494949495
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0200.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0060.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7702020202020202 weighted_potential_test: 0.7045454545454546
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0139.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0111.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0077.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0113.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0124.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0100.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8787878787878788 weighted_potential_test: 0.8939393939393939
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0072.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0401.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9217171717171717 weighted_potential_test: 0.9292929292929293
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0093.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0144.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7171717171717171
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0013.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0060.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6742424242424242 weighted_potential_test: 0.6944444444444444
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0018.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0374.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5934343434343434 weighted_potential_test: 0.6464646464646465
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0009.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0236.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8156565656565656 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0012.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0154.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5959595959595959 weighted_potential_test: 0.5959595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0137.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0056.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7323232323232324 weighted_potential_test: 0.6262626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0198.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0108.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6666666666666666 weighted_potential_test: 0.6439393939393939
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0227.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0194.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.5404040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0173.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0170.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0278.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5429292929292929 weighted_potential_test: 0.5277777777777778
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0037.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0124.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5151515151515151 weighted_potential_test: 0.5075757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0090.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0370.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7070707070707071 weighted_potential_test: 0.73989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0046.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0172.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0028.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0095.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8156565656565656 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0024.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0084.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7550505050505051 weighted_potential_test: 0.7575757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0158.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0038.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8434343434343434 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0159.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0135.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.851010101010101 weighted_potential_test: 0.8611111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0217.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0386.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8409090909090909
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0099.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5151515151515151 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0171.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0355.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7070707070707071 weighted_potential_test: 0.7045454545454546
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0213.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0141.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8661616161616161 weighted_potential_test: 0.8863636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0015.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0078.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6363636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0074.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0075.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0176.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0128.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.8661616161616161
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0015.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0049.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6313131313131313 weighted_potential_test: 0.5808080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0082.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0181.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8257575757575758 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0229.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0300.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.7676767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0141.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0339.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6161616161616161 weighted_potential_test: 0.601010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0063.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0075.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7146464646464646 weighted_potential_test: 0.6590909090909091
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0029.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0055.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8964646464646465 weighted_potential_test: 0.8055555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0222.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0144.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6641414141414141 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0052.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0375.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6237373737373737 weighted_potential_test: 0.6338383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0189.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0058.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0006.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0080.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6994949494949495 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0190.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0418.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0042.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0132.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5050505050505051 weighted_potential_test: 0.5075757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0036.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0014.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8308080808080808 weighted_potential_test: 0.8484848484848485
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0018.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0302.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6540404040404041
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0095.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0423.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6944444444444444 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0117.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6792929292929293
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0361.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6944444444444444
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0168.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8914141414141414 weighted_potential_test: 0.8813131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0022.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0333.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5202020202020202 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0226.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0163.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7651515151515151 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0140.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0179.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6540404040404041
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0237.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0115.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.73989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0044.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0066.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7323232323232324 weighted_potential_test: 0.7373737373737373
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0089.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0093.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.51010101010101 weighted_potential_test: 0.51010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0186.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0352.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7095959595959596 weighted_potential_test: 0.6994949494949495
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0187.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0324.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8232323232323232 weighted_potential_test: 0.8560606060606061
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0066.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0370.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.797979797979798 weighted_potential_test: 0.8207070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0138.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0313.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6717171717171717 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0082.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0344.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5075757575757576 weighted_potential_test: 0.5151515151515151
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0385.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5 weighted_potential_test: 0.5
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0044.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0234.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7323232323232324 weighted_potential_test: 0.6919191919191919
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0150.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0346.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8005050505050505 weighted_potential_test: 0.803030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0119.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0324.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8207070707070707 weighted_potential_test: 0.8232323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0143.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0341.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6313131313131313 weighted_potential_test: 0.5959595959595959
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0184.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7575757575757576 weighted_potential_test: 0.7550505050505051
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0049.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0132.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7348484848484849 weighted_potential_test: 0.7247474747474747
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0091.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0165.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8737373737373737 weighted_potential_test: 0.8636363636363636
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0122.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0029.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0075.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.76010101010101 weighted_potential_test: 0.7626262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0100.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0238.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8661616161616161 weighted_potential_test: 0.8661616161616161
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0094.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0346.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7803030303030303 weighted_potential_test: 0.7727272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0087.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0405.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8207070707070707 weighted_potential_test: 0.8257575757575758
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0032.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0106.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8712121212121212 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0216.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0122.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6237373737373737 weighted_potential_test: 0.5984848484848485
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0176.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0432.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7121212121212122 weighted_potential_test: 0.7348484848484849
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0144.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0038.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0054.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0287.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7702020202020202 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0018.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0187.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5328282828282829 weighted_potential_test: 0.5505050505050505
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0364.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6792929292929293
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0172.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0225.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5252525252525253 weighted_potential_test: 0.5227272727272727
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0136.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0091.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6919191919191919 weighted_potential_test: 0.6590909090909091
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0098.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0375.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5429292929292929 weighted_potential_test: 0.5303030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0173.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0108.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7575757575757576 weighted_potential_test: 0.6994949494949495
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0103.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0366.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5404040404040404 weighted_potential_test: 0.5353535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0063.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0201.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7146464646464646 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0174.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0049.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.601010101010101 weighted_potential_test: 0.5909090909090909
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0235.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0271.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0094.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0342.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6060606060606061 weighted_potential_test: 0.5555555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0052.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0198.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8358585858585859 weighted_potential_test: 0.7626262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0108.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6590909090909091 weighted_potential_test: 0.6767676767676768
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0072.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0067.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7121212121212122 weighted_potential_test: 0.7373737373737373
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0043.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0383.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6691919191919192 weighted_potential_test: 0.6136363636363636
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0173.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0410.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7727272727272727 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0165.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0031.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6641414141414141 weighted_potential_test: 0.6641414141414141
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0170.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8308080808080808 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0181.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0352.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7045454545454546 weighted_potential_test: 0.7045454545454546
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0003.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0267.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6338383838383839 weighted_potential_test: 0.5984848484848485
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0003.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0163.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5681818181818182 weighted_potential_test: 0.5656565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0181.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0359.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8838383838383839 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0058.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0330.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8257575757575758
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0059.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0353.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7474747474747475 weighted_potential_test: 0.6742424242424242
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0237.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0060.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8611111111111112 weighted_potential_test: 0.851010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0208.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7575757575757576 weighted_potential_test: 0.75
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0194.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0344.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6161616161616161 weighted_potential_test: 0.5858585858585859
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0227.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0403.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5328282828282829 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0145.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0150.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6691919191919192 weighted_potential_test: 0.6363636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0158.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7702020202020202 weighted_potential_test: 0.7575757575757576
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0235.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0381.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6085858585858586 weighted_potential_test: 0.5909090909090909
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0140.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0009.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7878787878787878 weighted_potential_test: 0.7752525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0236.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0173.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0313.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5732323232323232 weighted_potential_test: 0.6035353535353535
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0114.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0192.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.49242424242424243 weighted_potential_test: 0.5
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0219.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0322.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8888888888888888 weighted_potential_test: 0.8585858585858586
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0162.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7727272727272727 weighted_potential_test: 0.7929292929292929
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0010.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0265.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8712121212121212 weighted_potential_test: 0.8686868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0169.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0073.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9191919191919192 weighted_potential_test: 0.9015151515151515
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0210.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0297.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.6843434343434344
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0198.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0247.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8257575757575758
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0183.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0031.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.4772727272727273 weighted_potential_test: 0.47474747474747475
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0165.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5454545454545454 weighted_potential_test: 0.5454545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0357.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6944444444444444 weighted_potential_test: 0.6363636363636364
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0175.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0341.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8863636363636364 weighted_potential_test: 0.898989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0021.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0388.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.48484848484848486 weighted_potential_test: 0.47474747474747475
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0201.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0355.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.797979797979798 weighted_potential_test: 0.7853535353535354
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0089.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0014.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6186868686868687
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0146.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0115.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7929292929292929 weighted_potential_test: 0.7222222222222222
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0099.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0047.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0224.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0260.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6388888888888888 weighted_potential_test: 0.6262626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0208.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0058.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.702020202020202 weighted_potential_test: 0.6818181818181818
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0192.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7297979797979798 weighted_potential_test: 0.7651515151515151
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0004.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0040.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6186868686868687 weighted_potential_test: 0.5782828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0150.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0045.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6035353535353535 weighted_potential_test: 0.5984848484848485
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0128.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0370.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6414141414141414 weighted_potential_test: 0.6313131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0115.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0221.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0178.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0287.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7752525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0235.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0133.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7626262626262627 weighted_potential_test: 0.7550505050505051
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0236.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0320.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.7297979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0035.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0353.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8232323232323232 weighted_potential_test: 0.8308080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0075.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0388.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8712121212121212 weighted_potential_test: 0.8813131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0196.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0135.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5126262626262627 weighted_potential_test: 0.5
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0090.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0333.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6111111111111112 weighted_potential_test: 0.6212121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0069.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0165.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8308080808080808 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0027.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5328282828282829 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0186.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0124.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.803030303030303 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0084.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0192.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8156565656565656 weighted_potential_test: 0.8156565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0020.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0190.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7727272727272727 weighted_potential_test: 0.7196969696969697
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0107.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0161.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5151515151515151 weighted_potential_test: 0.5202020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0036.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0027.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5580808080808081 weighted_potential_test: 0.5303030303030303
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0225.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0091.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7904040404040404 weighted_potential_test: 0.7550505050505051
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0109.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0346.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0021.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0386.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0164.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0086.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8762626262626263 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0001.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0276.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6818181818181818 weighted_potential_test: 0.6439393939393939
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0128.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0284.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8888888888888888 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0170.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8762626262626263 weighted_potential_test: 0.8737373737373737
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0202.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0064.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.7954545454545454
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0029.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0099.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5883838383838383 weighted_potential_test: 0.5732323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0094.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0260.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8409090909090909 weighted_potential_test: 0.8308080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0141.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0078.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7752525252525253 weighted_potential_test: 0.8055555555555556
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0034.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9040404040404041 weighted_potential_test: 0.9015151515151515
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0006.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8055555555555556 weighted_potential_test: 0.8181818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0020.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0020.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7803030303030303 weighted_potential_test: 0.7676767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0117.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0368.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.75 weighted_potential_test: 0.7348484848484849
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0029.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0133.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5934343434343434 weighted_potential_test: 0.5656565656565656
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0226.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0399.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7449494949494949 weighted_potential_test: 0.6944444444444444
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0159.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0275.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0017.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0300.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7297979797979798 weighted_potential_test: 0.73989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0147.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0245.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5227272727272727 weighted_potential_test: 0.5176767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0129.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0342.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6944444444444444 weighted_potential_test: 0.7247474747474747
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0103.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0238.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6313131313131313 weighted_potential_test: 0.6111111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0115.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0375.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5707070707070707 weighted_potential_test: 0.547979797979798
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0128.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0115.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5404040404040404 weighted_potential_test: 0.5252525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0114.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0011.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7121212121212122 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0144.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0126.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8232323232323232 weighted_potential_test: 0.8207070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0200.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0106.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8636363636363636 weighted_potential_test: 0.8611111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0201.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0185.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8484848484848485 weighted_potential_test: 0.8813131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0091.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0304.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9116161616161617 weighted_potential_test: 0.898989898989899
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0010.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0361.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8636363636363636 weighted_potential_test: 0.8232323232323232
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0166.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0304.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5075757575757576 weighted_potential_test: 0.5126262626262627
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0042.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0152.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8308080808080808 weighted_potential_test: 0.8080808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0189.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0133.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5176767676767676 weighted_potential_test: 0.51010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0057.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0124.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8762626262626263 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0006.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0319.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7424242424242424 weighted_potential_test: 0.7373737373737373
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0085.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0240.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9141414141414141 weighted_potential_test: 0.9242424242424242
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0224.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0221.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7878787878787878 weighted_potential_test: 0.8131313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0203.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0012.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8005050505050505 weighted_potential_test: 0.7676767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0058.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0297.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8080808080808081 weighted_potential_test: 0.8207070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0203.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0313.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5126262626262627 weighted_potential_test: 0.51010101010101
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0092.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0056.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5555555555555556 weighted_potential_test: 0.5631313131313131
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0072.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0236.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5858585858585859 weighted_potential_test: 0.5681818181818182
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0182.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0363.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.6742424242424242
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0254.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8813131313131313 weighted_potential_test: 0.8282828282828283
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0196.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0161.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7626262626262627 weighted_potential_test: 0.7373737373737373
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0119.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0179.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8585858585858586 weighted_potential_test: 0.8358585858585859
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0047.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0295.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7752525252525253 weighted_potential_test: 0.7878787878787878
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0046.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0383.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.648989898989899 weighted_potential_test: 0.6338383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0092.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0126.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5454545454545454 weighted_potential_test: 0.5606060606060606
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0075.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0056.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8459595959595959 weighted_potential_test: 0.8585858585858586
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0164.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0177.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8333333333333334 weighted_potential_test: 0.8383838383838383
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0050.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0390.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6085858585858586 weighted_potential_test: 0.6237373737373737
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0138.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0238.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8838383838383839 weighted_potential_test: 0.8787878787878788
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0058.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0330.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8282828282828283 weighted_potential_test: 0.7904040404040404
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0166.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0066.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5656565656565656 weighted_potential_test: 0.5580808080808081
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0116.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0067.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8106060606060606 weighted_potential_test: 0.8409090909090909
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0187.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0392.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8712121212121212 weighted_potential_test: 0.8762626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0096.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0144.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.5707070707070707
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0124.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0432.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8863636363636364 weighted_potential_test: 0.9040404040404041
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0067.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0038.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7727272727272727 weighted_potential_test: 0.7449494949494949
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0174.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0179.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7045454545454546 weighted_potential_test: 0.7348484848484849
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0045.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7146464646464646 weighted_potential_test: 0.6035353535353535
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0032.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0276.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7626262626262627 weighted_potential_test: 0.8005050505050505
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0002.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0271.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.76010101010101 weighted_potential_test: 0.7828282828282829
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0078.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0088.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.5833333333333334 weighted_potential_test: 0.5808080808080808
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0055.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0342.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7853535353535354 weighted_potential_test: 0.7424242424242424
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0224.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0247.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8207070707070707 weighted_potential_test: 0.7752525252525253
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0200.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0416.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8863636363636364 weighted_potential_test: 0.8914141414141414
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0027.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0408.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7070707070707071 weighted_potential_test: 0.6616161616161617
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0114.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0055.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6565656565656566 weighted_potential_test: 0.6515151515151515
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0019.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0271.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.9090909090909091 weighted_potential_test: 0.8838383838383839
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0005.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0066.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6868686868686869 weighted_potential_test: 0.7121212121212122
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0087.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0247.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.7196969696969697
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0028.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0047.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6287878787878788 weighted_potential_test: 0.5909090909090909
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0151.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0278.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8661616161616161 weighted_potential_test: 0.8712121212121212
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0013.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0106.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6515151515151515 weighted_potential_test: 0.6111111111111112
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0196.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6565656565656566 weighted_potential_test: 0.6313131313131313
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0102.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0339.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6994949494949495 weighted_potential_test: 0.6691919191919192
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0229.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0225.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6717171717171717 weighted_potential_test: 0.6262626262626263
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0118.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0403.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8131313131313131 weighted_potential_test: 0.7676767676767676
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0185.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0183.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6515151515151515 weighted_potential_test: 0.6666666666666666
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0120.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0058.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.73989898989899 weighted_potential_test: 0.8257575757575758
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0139.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0374.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7171717171717171 weighted_potential_test: 0.7323232323232324
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0220.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0396.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.7449494949494949 weighted_potential_test: 0.7373737373737373
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0077.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0073.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.8181818181818182 weighted_potential_test: 0.7702020202020202
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0098.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0304.jpg
+
+n_train_images 1 weights_id 61 w_factor 65.0 rand_init 0.05 test_score: 0.6919191919191919 weighted_potential_test: 0.6565656565656566
+Images: image1: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Motor/motor_0191.jpg image2: /home/zbenhoui/STDP/novelty-modulated/sdnn_var_n_images/datasets/TrainingSet/Face/image_0333.jpg
+

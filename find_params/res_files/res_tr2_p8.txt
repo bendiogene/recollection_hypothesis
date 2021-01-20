@@ -1,0 +1,13 @@
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 2,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L1: 1
+TR_L2: 1
+train score correct: 220, wrong: 180, p: 0.55 
+test score correct: 220, wrong: 176, p: 0.5555555555555556
+weighted potential train score correct: 219, wrong: 181, p: 0.5475
+weighted potential test score correct: 224, wrong: 172, p: 0.5656565656565656
+
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 2,SPIKES_T0_CONSIDER: -1,POOLING_W: 1,RANDOM_INIT: 0.8,TR_L1: 1,TR_L2: 1,CLASS_TR: 2
+train score correct: 0, wrong: 0, p: 0.0 
+test score correct: 0, wrong: 0, p: 0.0
+weighted potential train score correct: 0, wrong: 400, p: 0.0
+weighted potential test score correct: 0, wrong: 396, p: 0.0
+

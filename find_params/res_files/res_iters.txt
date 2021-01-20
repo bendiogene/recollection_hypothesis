@@ -1,0 +1,44 @@
+ITER_TRAIN: 1, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 371, wrong: 29, p: 0.9275 
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+ITER_TRAIN: 5, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 364, wrong: 36, p: 0.91 
+test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+ITER_TRAIN: 10, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 367, wrong: 33, p: 0.9175 
+test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+ITER_TRAIN: 20, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 368, wrong: 32, p: 0.92 
+test score correct: 353, wrong: 43, p: 0.8914141414141414
+
+ITER_TRAIN: 30, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 364, wrong: 36, p: 0.91 
+test score correct: 350, wrong: 46, p: 0.8838383838383839
+
+ITER_TRAIN: 40, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 363, wrong: 37, p: 0.9075 
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+ITER_TRAIN: 50, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 364, wrong: 36, p: 0.91 
+test score correct: 346, wrong: 50, p: 0.8737373737373737
+
+ITER_TRAIN: 100, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 360, wrong: 40, p: 0.9 
+test score correct: 344, wrong: 52, p: 0.8686868686868687
+
+ITER_TRAIN: 150, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 353, wrong: 47, p: 0.8825 
+test score correct: 343, wrong: 53, p: 0.8661616161616161
+
+ITER_TRAIN: 200, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 347, wrong: 53, p: 0.8675 
+test score correct: 334, wrong: 62, p: 0.8434343434343434
+
+ITER_TRAIN: 500, APLUS: 0.007,AMINUS: 0.001,TR_learning: 5,SPIKES_T0_CONSIDER: 15,POOLING_W: 1,RANDOM_INIT: 0.8
+train score correct: 343, wrong: 57, p: 0.8575 
+test score correct: 331, wrong: 65, p: 0.8358585858585859
+

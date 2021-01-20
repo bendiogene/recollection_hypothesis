@@ -1,0 +1,180 @@
+w_init 0.1 std_init 0.0
+train score correct: 366, wrong: 34, p: 0.915
+test score correct: 361, wrong: 35, p: 0.9116161616161617
+weighted potential train score correct: 365, wrong: 35, p: 0.9125
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+w_init 0.1 std_init 0.05
+train score correct: 367, wrong: 33, p: 0.9175
+test score correct: 365, wrong: 31, p: 0.9217171717171717
+weighted potential train score correct: 366, wrong: 34, p: 0.915
+weighted potential test score correct: 364, wrong: 32, p: 0.9191919191919192
+
+w_init 0.1 std_init 0.1
+train score correct: 332, wrong: 68, p: 0.83
+test score correct: 334, wrong: 62, p: 0.8434343434343434
+weighted potential train score correct: 322, wrong: 78, p: 0.805
+weighted potential test score correct: 328, wrong: 68, p: 0.8282828282828283
+
+w_init 0.2 std_init 0.0
+train score correct: 377, wrong: 23, p: 0.9425
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 374, wrong: 26, p: 0.935
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+w_init 0.2 std_init 0.1
+train score correct: 383, wrong: 17, p: 0.9575
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 379, wrong: 21, p: 0.9475
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+w_init 0.2 std_init 0.05
+train score correct: 377, wrong: 23, p: 0.9425
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 375, wrong: 25, p: 0.9375
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+w_init 0.3 std_init 0.0
+train score correct: 382, wrong: 18, p: 0.955
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 379, wrong: 21, p: 0.9475
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+w_init 0.3 std_init 0.05
+train score correct: 384, wrong: 16, p: 0.96
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 382, wrong: 18, p: 0.955
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+w_init 0.3 std_init 0.1
+train score correct: 382, wrong: 18, p: 0.955
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 381, wrong: 19, p: 0.9525
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+w_init 0.4 std_init 0.0
+train score correct: 386, wrong: 14, p: 0.965
+test score correct: 378, wrong: 18, p: 0.9545454545454546
+weighted potential train score correct: 385, wrong: 15, p: 0.9625
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+w_init 0.4 std_init 0.05
+train score correct: 386, wrong: 14, p: 0.965
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 385, wrong: 15, p: 0.9625
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+w_init 0.4 std_init 0.1
+train score correct: 385, wrong: 15, p: 0.9625
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 386, wrong: 14, p: 0.965
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+w_init 0.5 std_init 0.0
+train score correct: 379, wrong: 21, p: 0.9475
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 386, wrong: 14, p: 0.965
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+w_init 0.5 std_init 0.05
+train score correct: 382, wrong: 18, p: 0.955
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 387, wrong: 13, p: 0.9675
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+w_init 0.5 std_init 0.1
+train score correct: 381, wrong: 19, p: 0.9525
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 386, wrong: 14, p: 0.965
+weighted potential test score correct: 379, wrong: 17, p: 0.9570707070707071
+
+w_init 0.6 std_init 0.0
+train score correct: 376, wrong: 24, p: 0.94
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 383, wrong: 17, p: 0.9575
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+w_init 0.6 std_init 0.05
+train score correct: 376, wrong: 24, p: 0.94
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 386, wrong: 14, p: 0.965
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+w_init 0.6 std_init 0.1
+train score correct: 379, wrong: 21, p: 0.9475
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 383, wrong: 17, p: 0.9575
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+w_init 0.7 std_init 0.0
+train score correct: 375, wrong: 25, p: 0.9375
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 380, wrong: 20, p: 0.95
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+w_init 0.7 std_init 0.05
+train score correct: 374, wrong: 26, p: 0.935
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 379, wrong: 21, p: 0.9475
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+w_init 0.7 std_init 0.1
+train score correct: 375, wrong: 25, p: 0.9375
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 380, wrong: 20, p: 0.95
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+w_init 0.8 std_init 0.0
+train score correct: 371, wrong: 29, p: 0.9275
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 377, wrong: 23, p: 0.9425
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+w_init 0.8 std_init 0.05
+train score correct: 373, wrong: 27, p: 0.9325
+test score correct: 373, wrong: 23, p: 0.9419191919191919
+weighted potential train score correct: 377, wrong: 23, p: 0.9425
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+w_init 0.8 std_init 0.1
+train score correct: 373, wrong: 27, p: 0.9325
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 378, wrong: 22, p: 0.945
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+w_init 0.9 std_init 0.0
+train score correct: 367, wrong: 33, p: 0.9175
+test score correct: 370, wrong: 26, p: 0.9343434343434344
+weighted potential train score correct: 374, wrong: 26, p: 0.935
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+w_init 0.9 std_init 0.05
+train score correct: 370, wrong: 30, p: 0.925
+test score correct: 369, wrong: 27, p: 0.9318181818181818
+weighted potential train score correct: 373, wrong: 27, p: 0.9325
+weighted potential test score correct: 373, wrong: 23, p: 0.9419191919191919
+
+w_init 0.9 std_init 0.1
+train score correct: 373, wrong: 27, p: 0.9325
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 375, wrong: 25, p: 0.9375
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+w_init 1.0 std_init 0.0
+train score correct: 200, wrong: 200, p: 0.5
+test score correct: 198, wrong: 198, p: 0.5
+weighted potential train score correct: 200, wrong: 200, p: 0.5
+weighted potential test score correct: 198, wrong: 198, p: 0.5
+
+w_init 1.0 std_init 0.05
+train score correct: 369, wrong: 31, p: 0.9225
+test score correct: 361, wrong: 35, p: 0.9116161616161617
+weighted potential train score correct: 372, wrong: 28, p: 0.93
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+w_init 1.0 std_init 0.1
+train score correct: 369, wrong: 31, p: 0.9225
+test score correct: 361, wrong: 35, p: 0.9116161616161617
+weighted potential train score correct: 372, wrong: 28, p: 0.93
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+

@@ -1,0 +1,1 @@
+['/home/atomassi/find_params/sdnn_find_params/src/main.py', '1', '0.007', '0.001', '2', '-1', '1', '0.8', '1', '1', '2']

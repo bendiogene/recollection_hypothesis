@@ -1,0 +1,7 @@
+To Do:
+Run multiple SVM runs with the same best parameters
+
+Done:
+1. find best configuration of SDNN weights.
+2. Feed it to the params finder to try to reach at least SVM precision: ./explore_best_sdnn_weights.sh
+
