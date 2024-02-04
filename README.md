@@ -23,6 +23,8 @@ Under - `naming/` :
 
 - **Major Update: Image Reconstruction**
   - `reconstruct/`: Contains (I hope easy to follow) notebooks for image reconstruction experiments.
+  - Trained Models can be found [here](https://drive.google.com/drive/folders/1qH_wSRvIw_9hZwq77O8_eJUcXUUgqk7g?usp=sharing)
+
 
 ## Backpropagation-based Recollection of Memories: Overview
 
