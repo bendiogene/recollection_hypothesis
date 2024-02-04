@@ -14,6 +14,7 @@ The work is documented in the following papers:
 
 ### Code to reproduce results
 
+
 - **First Version: Object Naming** 
 Under - `naming/` :
   - `find_params/`: Code for experimenting with Spiking Neural Network (SNN) parameters.
@@ -24,6 +25,8 @@ Under - `naming/` :
 - **Major Update: Image Reconstruction**
   - `reconstruct/`: Contains (I hope easy to follow) notebooks for image reconstruction experiments.
   - Trained Models can be found [here](https://drive.google.com/drive/folders/1qH_wSRvIw_9hZwq77O8_eJUcXUUgqk7g?usp=sharing)
+
+
 
 
 ## Backpropagation-based Recollection of Memories: Overview
@@ -55,6 +58,7 @@ Our computational modelling work further shows that our mechanism is incredibly 
 ![Original Image, Georges Berkeley (Portrait by John Smybert, 1727)](images/Berkeley.jpg_original.png "Original Image")
 
 ![Reconstructed Image (using backpropagation-based recall on AlexNet)](images/Berkeley.jpg_general_class_Neg_NegConv_Norm_0_TakePos_normalize_rescale_std_unpool_indices_normalize.png "Reconstructed Image")
+
 
 ### 4. Impact on cognitive functions and Neuroscience
 
