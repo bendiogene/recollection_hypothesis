@@ -14,7 +14,10 @@ The work is documented in the following papers:
 
 ### Code to reproduce results
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5b9ef3a (Restructure + include major update)
 - **First Version: Object Naming** 
 Under - `naming/` :
   - `find_params/`: Code for experimenting with Spiking Neural Network (SNN) parameters.
@@ -56,9 +59,14 @@ Our computational modelling work further shows that our mechanism is incredibly 
 #### Example comparison of original and reconstructed images
 
 ![Original Image, Georges Berkeley (Portrait by John Smybert, 1727)](images/Berkeley.jpg_original.png "Original Image")
+<<<<<<< HEAD
 
 ![Reconstructed Image (using backpropagation-based recall on AlexNet)](images/Berkeley.jpg_general_class_Neg_NegConv_Norm_0_TakePos_normalize_rescale_std_unpool_indices_normalize.png "Reconstructed Image")
 
+=======
+
+![Reconstructed Image (using backpropagation-based recall on AlexNet)](images/Berkeley.jpg_general_class_Neg_NegConv_Norm_0_TakePos_normalize_rescale_std_unpool_indices_normalize.png "Reconstructed Image")
+>>>>>>> 5b9ef3a (Restructure + include major update)
 
 ### 4. Impact on cognitive functions and Neuroscience
 
