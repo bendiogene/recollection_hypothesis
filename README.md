@@ -29,8 +29,11 @@ Under - `naming/` :
   - `reconstruct/`: Contains (I hope easy to follow) notebooks for image reconstruction experiments.
   - Trained Models can be found [here](https://drive.google.com/drive/folders/1qH_wSRvIw_9hZwq77O8_eJUcXUUgqk7g?usp=sharing)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b2caf9a (link to models)
 
 ## Backpropagation-based Recollection of Memories: Overview
 
