@@ -1,0 +1,240 @@
+n_train_images 5 weights_id 0
+train score correct: 10, wrong: 0, p: 1.0
+test score correct: 291, wrong: 105, p: 0.7348484848484849
+weighted potential train score correct: 10, wrong: 0, p: 1.0
+weighted potential test score correct: 286, wrong: 110, p: 0.7222222222222222
+
+n_train_images 10 weights_id 0
+train score correct: 19, wrong: 1, p: 0.95
+test score correct: 327, wrong: 69, p: 0.8257575757575758
+weighted potential train score correct: 19, wrong: 1, p: 0.95
+weighted potential test score correct: 314, wrong: 82, p: 0.7929292929292929
+
+n_train_images 15 weights_id 0
+train score correct: 27, wrong: 3, p: 0.9
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 26, wrong: 4, p: 0.8666666666666667
+weighted potential test score correct: 337, wrong: 59, p: 0.851010101010101
+
+n_train_images 20 weights_id 0
+train score correct: 37, wrong: 3, p: 0.925
+test score correct: 345, wrong: 51, p: 0.8712121212121212
+weighted potential train score correct: 36, wrong: 4, p: 0.9
+weighted potential test score correct: 340, wrong: 56, p: 0.8585858585858586
+
+n_train_images 25 weights_id 0
+train score correct: 44, wrong: 6, p: 0.88
+test score correct: 348, wrong: 48, p: 0.8787878787878788
+weighted potential train score correct: 44, wrong: 6, p: 0.88
+weighted potential test score correct: 342, wrong: 54, p: 0.8636363636363636
+
+n_train_images 30 weights_id 0
+train score correct: 54, wrong: 6, p: 0.9
+test score correct: 338, wrong: 58, p: 0.8535353535353535
+weighted potential train score correct: 54, wrong: 6, p: 0.9
+weighted potential test score correct: 335, wrong: 61, p: 0.8459595959595959
+
+n_train_images 35 weights_id 0
+train score correct: 64, wrong: 6, p: 0.9142857142857143
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 64, wrong: 6, p: 0.9142857142857143
+weighted potential test score correct: 338, wrong: 58, p: 0.8535353535353535
+
+n_train_images 40 weights_id 0
+train score correct: 72, wrong: 8, p: 0.9
+test score correct: 347, wrong: 49, p: 0.8762626262626263
+weighted potential train score correct: 72, wrong: 8, p: 0.9
+weighted potential test score correct: 341, wrong: 55, p: 0.8611111111111112
+
+n_train_images 45 weights_id 0
+train score correct: 82, wrong: 8, p: 0.9111111111111111
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 82, wrong: 8, p: 0.9111111111111111
+weighted potential test score correct: 349, wrong: 47, p: 0.8813131313131313
+
+n_train_images 50 weights_id 0
+train score correct: 90, wrong: 10, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 90, wrong: 10, p: 0.9
+weighted potential test score correct: 349, wrong: 47, p: 0.8813131313131313
+
+n_train_images 55 weights_id 0
+train score correct: 99, wrong: 11, p: 0.9
+test score correct: 358, wrong: 38, p: 0.9040404040404041
+weighted potential train score correct: 100, wrong: 10, p: 0.9090909090909091
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 60 weights_id 0
+train score correct: 108, wrong: 12, p: 0.9
+test score correct: 351, wrong: 45, p: 0.8863636363636364
+weighted potential train score correct: 108, wrong: 12, p: 0.9
+weighted potential test score correct: 345, wrong: 51, p: 0.8712121212121212
+
+n_train_images 65 weights_id 0
+train score correct: 118, wrong: 12, p: 0.9076923076923077
+test score correct: 356, wrong: 40, p: 0.898989898989899
+weighted potential train score correct: 118, wrong: 12, p: 0.9076923076923077
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 70 weights_id 0
+train score correct: 126, wrong: 14, p: 0.9
+test score correct: 355, wrong: 41, p: 0.8964646464646465
+weighted potential train score correct: 127, wrong: 13, p: 0.9071428571428571
+weighted potential test score correct: 351, wrong: 45, p: 0.8863636363636364
+
+n_train_images 75 weights_id 0
+train score correct: 135, wrong: 15, p: 0.9
+test score correct: 357, wrong: 39, p: 0.9015151515151515
+weighted potential train score correct: 135, wrong: 15, p: 0.9
+weighted potential test score correct: 352, wrong: 44, p: 0.8888888888888888
+
+n_train_images 80 weights_id 0
+train score correct: 144, wrong: 16, p: 0.9
+test score correct: 362, wrong: 34, p: 0.9141414141414141
+weighted potential train score correct: 144, wrong: 16, p: 0.9
+weighted potential test score correct: 356, wrong: 40, p: 0.898989898989899
+
+n_train_images 85 weights_id 0
+train score correct: 154, wrong: 16, p: 0.9058823529411765
+test score correct: 365, wrong: 31, p: 0.9217171717171717
+weighted potential train score correct: 154, wrong: 16, p: 0.9058823529411765
+weighted potential test score correct: 360, wrong: 36, p: 0.9090909090909091
+
+n_train_images 90 weights_id 0
+train score correct: 163, wrong: 17, p: 0.9055555555555556
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 163, wrong: 17, p: 0.9055555555555556
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 95 weights_id 0
+train score correct: 174, wrong: 16, p: 0.9157894736842105
+test score correct: 366, wrong: 30, p: 0.9242424242424242
+weighted potential train score correct: 172, wrong: 18, p: 0.9052631578947369
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 100 weights_id 0
+train score correct: 185, wrong: 15, p: 0.925
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 182, wrong: 18, p: 0.91
+weighted potential test score correct: 363, wrong: 33, p: 0.9166666666666666
+
+n_train_images 105 weights_id 0
+train score correct: 194, wrong: 16, p: 0.9238095238095239
+test score correct: 368, wrong: 28, p: 0.9292929292929293
+weighted potential train score correct: 190, wrong: 20, p: 0.9047619047619048
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 110 weights_id 0
+train score correct: 206, wrong: 14, p: 0.9363636363636364
+test score correct: 367, wrong: 29, p: 0.9267676767676768
+weighted potential train score correct: 203, wrong: 17, p: 0.9227272727272727
+weighted potential test score correct: 365, wrong: 31, p: 0.9217171717171717
+
+n_train_images 115 weights_id 0
+train score correct: 217, wrong: 13, p: 0.9434782608695652
+test score correct: 372, wrong: 24, p: 0.9393939393939394
+weighted potential train score correct: 215, wrong: 15, p: 0.9347826086956522
+weighted potential test score correct: 368, wrong: 28, p: 0.9292929292929293
+
+n_train_images 120 weights_id 0
+train score correct: 228, wrong: 12, p: 0.95
+test score correct: 371, wrong: 25, p: 0.9368686868686869
+weighted potential train score correct: 225, wrong: 15, p: 0.9375
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 125 weights_id 0
+train score correct: 238, wrong: 12, p: 0.952
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 235, wrong: 15, p: 0.94
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 130 weights_id 0
+train score correct: 248, wrong: 12, p: 0.9538461538461539
+test score correct: 374, wrong: 22, p: 0.9444444444444444
+weighted potential train score correct: 246, wrong: 14, p: 0.9461538461538461
+weighted potential test score correct: 370, wrong: 26, p: 0.9343434343434344
+
+n_train_images 135 weights_id 0
+train score correct: 259, wrong: 11, p: 0.9592592592592593
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 256, wrong: 14, p: 0.9481481481481482
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 140 weights_id 0
+train score correct: 268, wrong: 12, p: 0.9571428571428572
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 266, wrong: 14, p: 0.95
+weighted potential test score correct: 372, wrong: 24, p: 0.9393939393939394
+
+n_train_images 145 weights_id 0
+train score correct: 280, wrong: 10, p: 0.9655172413793104
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 275, wrong: 15, p: 0.9482758620689655
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 150 weights_id 0
+train score correct: 290, wrong: 10, p: 0.9666666666666667
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 287, wrong: 13, p: 0.9566666666666667
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 155 weights_id 0
+train score correct: 299, wrong: 11, p: 0.964516129032258
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 297, wrong: 13, p: 0.9580645161290322
+weighted potential test score correct: 375, wrong: 21, p: 0.946969696969697
+
+n_train_images 160 weights_id 0
+train score correct: 309, wrong: 11, p: 0.965625
+test score correct: 375, wrong: 21, p: 0.946969696969697
+weighted potential train score correct: 307, wrong: 13, p: 0.959375
+weighted potential test score correct: 374, wrong: 22, p: 0.9444444444444444
+
+n_train_images 165 weights_id 0
+train score correct: 320, wrong: 10, p: 0.9696969696969697
+test score correct: 376, wrong: 20, p: 0.9494949494949495
+weighted potential train score correct: 319, wrong: 11, p: 0.9666666666666667
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 170 weights_id 0
+train score correct: 331, wrong: 9, p: 0.9735294117647059
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 329, wrong: 11, p: 0.9676470588235294
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 175 weights_id 0
+train score correct: 340, wrong: 10, p: 0.9714285714285714
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 339, wrong: 11, p: 0.9685714285714285
+weighted potential test score correct: 376, wrong: 20, p: 0.9494949494949495
+
+n_train_images 180 weights_id 0
+train score correct: 348, wrong: 12, p: 0.9666666666666667
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 350, wrong: 10, p: 0.9722222222222222
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 185 weights_id 0
+train score correct: 358, wrong: 12, p: 0.9675675675675676
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 359, wrong: 11, p: 0.9702702702702702
+weighted potential test score correct: 377, wrong: 19, p: 0.952020202020202
+
+n_train_images 190 weights_id 0
+train score correct: 366, wrong: 14, p: 0.9631578947368421
+test score correct: 377, wrong: 19, p: 0.952020202020202
+weighted potential train score correct: 368, wrong: 12, p: 0.968421052631579
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+
+n_train_images 195 weights_id 0
+train score correct: 374, wrong: 16, p: 0.958974358974359
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 376, wrong: 14, p: 0.9641025641025641
+weighted potential test score correct: 379, wrong: 17, p: 0.9570707070707071
+
+n_train_images 200 weights_id 0
+train score correct: 382, wrong: 18, p: 0.955
+test score correct: 379, wrong: 17, p: 0.9570707070707071
+weighted potential train score correct: 387, wrong: 13, p: 0.9675
+weighted potential test score correct: 378, wrong: 18, p: 0.9545454545454546
+

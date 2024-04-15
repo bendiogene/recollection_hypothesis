@@ -1,0 +1,4 @@
+,weights_ID,w_factor,std_init,ITER_TRAIN,APLUS,AMINUS,TR_learning,SPIKES_T0_CONSIDER,POOLING_W,RANDOM_INIT,TR_L1,TR_L2,CLASS_TR,FOLD_ID,backprop_train_score,backprop_train_score_pot,backprop_test_score,backprop_test_score_pot,svm_train_score,svm_test_score
+0,1,2,3,1,0.007,0.003,10,-1,1,0.5,6.25,20.75,-1,2,2,2,4,4,2,2
+0,1,2,3,1,0.007,0.003,10,-1,1,0.5,6.25,20.75,-1,2,2,2,4,4,2,2
+0,1,2,3,1,0.007,0.003,10,-1,1,0.5,6.25,20.75,-1,2,2,2,4,4,2,2
