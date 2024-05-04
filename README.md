@@ -4,7 +4,7 @@
 
 <div align="center">
 https://github.com/bendiogene/recollection_hypothesis/assets/77249286/6c2d5cba-65c8-4f70-88f4-e5465fca8ae1
-</div>div>
+</div>
 
 This repository hosts the code and data supporting my research on what I called the backpropagation-based recollection hypothesis. 
 
