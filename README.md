@@ -1,4 +1,10 @@
-# Backpropagation-based recollection of memories
+<h1 align="center">Backpropagation-based recollection of memories</h1>
+
+<p align="center"><i>If there is such a simple mechanism to solve the problem, why wouldn't nature use it?</i></p>
+
+<div align="center">
+  <video src="BackpropagationBasedRecollection.mp4" autoplay loop></video>
+</div>
 
 This repository hosts the code and data supporting my research on what I called the backpropagation-based recollection hypothesis. 
 
@@ -6,9 +12,10 @@ This repository hosts the code and data supporting my research on what I called 
 
 The work is documented in the following papers:
 
-- **Early Version:** Houidi, Z. B. “The backpropagation-based recollection hypothesis: Backpropagated action potentials mediate recall, imagination, language understanding, and naming.” arXiv preprint [arXiv:2101.04137](https://arxiv.org/pdf/2101.04137.pdf).
+- **Early Version:** Zied Ben Houidi, “The backpropagation-based recollection hypothesis: Backpropagated action potentials mediate recall, imagination, language understanding, and naming.” Jan'21. arXiv preprint [arXiv:2101.04137](https://arxiv.org/pdf/2101.04137.pdf).
 
-- **Major Update:** Houidi, Zied B. 2024. “Backpropagation-based Recollection of Memories: Biological Plausibility and Computational Efficiency.” OSF Preprints. January 18. doi:[10.31219/osf.io/8rmhf](https://osf.io/8rmhf/).
+- **Major Update:** Zied Ben Houidi “Backpropagation-based Recollection of Memories: Biological Plausibility and Computational Efficiency.” bioRxiv 2024.02.05.578854. Feb'24. doi:[10.1101/2024.02.05.578854](https://doi.org/10.1101/2024.02.05.578854).
+
 
 ## Repository Structure
 
@@ -52,13 +59,15 @@ Our computational modelling work further shows that our mechanism is incredibly 
 
 #### Example comparison of original and reconstructed images
 
-![Original Image, Georges Berkeley (Portrait by John Smybert, 1727)](images/Berkeley.jpg_original.png "Original Image")
 
-![Reconstructed Image (using backpropagation-based recall on AlexNet)](images/Berkeley.jpg_general_class_Neg_NegConv_Norm_0_TakePos_normalize_rescale_std_unpool_indices_normalize.png "Reconstructed Image")
+<div style="display: flex; justify-content: center;">
+  <img src="images/Berkeley.jpg_original.png" alt="Original Image, Georges Berkeley (Portrait by John Smybert, 1727)" width="400">
+  <img src="images/Berkeley.jpg_general_class_Neg_NegConv_Norm_0_TakePos_normalize_rescale_std_unpool_indices_normalize.png" alt="Reconstructed Image (using backpropagation-based recall on AlexNet)" width="400">
+</div>
+
 
 ### 4. Impact on cognitive functions and Neuroscience
 
 Finally, this paradigm shift, if validated, would revolutionize our understanding of a broad spectrum of cognitive functions. *Similar cue-based processing is indeed ubiquitous in our life*: we use it for (i) modality-specific language understanding, e.g. when going from words to their signified visual or other underlying representations. We use it also (ii) when naming familiar objects, or (iii) during cue-based attention, e.g. when we focus only on one part of the visual field, inhibiting the rest, in addition to (iv) mind wandering, imagination and future episodic thinking.
 
 *Our proposal further provides a compelling synthesis connecting dots between disparate empirical findings in neuroscience*: First, the role of Acetylcholine in (i) encoding and retrieval of memories, its role in (ii) triggering transient oscillations related to memory, and its less known role in (iii) modulating backpropagated action potentials, which are the hypothesized trigger of our mechanism. Second, our mechanism explains the crucial role of the unexplainably-prevalent gap junctions in (i) memory and (ii) related network oscillations. Finally, our theory provides a concrete link between sparse concept cells and the retrieval of memory traces encoded in distributed cortical areas, effectively bridging the gap between sparse coding and distributed representations in cognitive science: Our proposed mechanism provides an implementation that unifies both: sparse neurons are the pointers or roots from which ACh-modulated backpropagated retrieval of the distributed representations is initiated (roughly speaking, from sparse concept cells that selectively respond to a particular concept, e.g. a cat, back to all the sensory features that relate to it).
-
