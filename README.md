@@ -53,6 +53,34 @@ Our literature review uncovers a range of findings that, while not yet mainstrea
 
 ![A biologically plausible illustration of the toy example during recall, under the light of evidence we found in the literature.](images/assumptions_overview_evidence4.png "Caption: A biologically plausible illustration...")
 
+1. **Forward Processing of Cues via Chemical Synapses**
+
+   Established neural pathways convey sensory information to the MTL for memory processing (Mishkin et al., 1983; Squire & Zola-Morgan, 1991).
+
+2. **Activation of Source Pointer Neurons in the MTL**
+
+   Highly selective neurons in the MTL/hippocampus ("pointer neurons") fire in response to specific cues, indexing the corresponding memory trace. Neurons selectively responding to specific concepts have been identified in the MTL (Quiroga et al., 2005, 2008). The hippocampus serves as an indexing system for memory retrieval (Teyler & DiScenna, 1986; Moscovitch, 2008).
+
+3. **Cholinergic Modulation Facilitates Backpropagation and Memory Retrieval**
+
+   Cholinergic modulation enhances backpropagation in hippocampal neurons (Tsubokawa & Ross, 1997; Hoffman & Johnston, 1999). Phasic cholinergic release plays a crucial role in memory encoding and retrieval (Leaderbrand et al., 2016; Sun et al., 2021). Cholinergic signaling modulates memory-related neural oscillations (Fisahn et al., 1998; Betterton et al., 2017).
+
+4. **Flow Reversal Observed During Recall**
+
+   Top-down reactivation patterns are observed during memory recall (Staresina et al., 2013; Dijkstra et al., 2017). Neural reinstatement supports the encoding specificity principle (Frankland et al., 2019).
+
+5. **Reverse Currents Flow Through Coupled Gap Junctions, Synchronizing Neural Ensembles**
+
+   Gap junctions are much more prevalent in the adult brain than previously thought, particularly in the hippocampus and cerebral cortex (Nagy et al., 2018; Pereda, 2014). They contribute to network oscillations associated with memory processes (Buzsáki & Kandel, 1998; Posłuszny, 2014). Disruption of gap junctions impairs memory retrieval (Frisch et al., 2005) and memory-related oscillations (Buhl et al., 2003; Hormuzdi et al., 2001).
+
+6. **Reinstatement of Neural Ensembles Active During Encoding**
+
+   Neural reinstatement during recall has been demonstrated using optogenetics and neuroimaging (Liu et al., 2012; Tanaka et al., 2014; Dijkstra et al., 2017). Memory retrieval involves reactivation of encoding-specific neural patterns (Frankland et al., 2019).
+
+7. **Gap Junctions Adapt to Chemical Synaptic Plasticity**
+
+   Gap junctions coexist with and adapt to changes in chemical synapses (Nagy et al., 2018; Pereda, 2014). Chemical activity modulates electrical coupling strength (Haas et al., 2016), potentially allowing backpropagated currents to follow paths strengthened during encoding (Alcamí & Pereda, 2019).
+
 ### 3. Intriguing computational efficiency
 
 Our computational modelling work further shows that our mechanism is incredibly effective in two different recollection tasks: (i) recalling object names with accuracy comparable to machine learning classifiers and (ii) reconstructing images from sparse activations. To the best of our knowledge, no biologically plausible model has made it to implement such a generative task.
