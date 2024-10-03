@@ -8,10 +8,6 @@ https://github.com/user-attachments/assets/a6159115-f002-456b-a425-2695d42a47f0
 
 </div>
 
-[![Illustration of backpropagation-based recollection](https://img.youtube.com/vi/QTAQDRz04vU/0.jpg)](https://www.youtube.com/watch?v=QTAQDRz04vU)
-
-
-
 This repository hosts the code and data supporting my research on what I called the backpropagation-based recollection hypothesis. 
 
 ## Research Papers
