@@ -8,6 +8,11 @@ https://github.com/user-attachments/assets/a6159115-f002-456b-a425-2695d42a47f0
 
 </div>
 
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QTAQDRz04vU?autoplay=1&mute=1&loop=1&playlist=QTAQDRz04vU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 This repository hosts the code and data supporting my research on what I called the backpropagation-based recollection hypothesis. 
 
 ## Research Papers
